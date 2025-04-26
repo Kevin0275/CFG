@@ -29,11 +29,11 @@
     <FolderPairs>
         <Pair>
             <Left>D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</Left>
-            <Right>D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg</Right>
+            <Right>D:\CFG\cfg</Right>
         </Pair>
         <Pair>
             <Left>C:\Program Files (x86)\Steam\userdata\930576412</Left>
-            <Right>C:\Program Files (x86)\Steam\userdata\930576412</Right>
+            <Right>D:\CFG\930576412</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

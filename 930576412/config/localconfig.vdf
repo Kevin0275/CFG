@@ -1,0 +1,773 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"0"
+		"FirstTimeComplete"		"1"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"218"
+					{
+						"LastPlayed"		"1548249506"
+						"Playtime"		"233"
+					}
+					"480"
+					{
+						"LastPlayed"		"1660287064"
+						"Playtime"		"168"
+					}
+					"730"
+					{
+						"LastPlayed"		"1745632539"
+						"Playtime2wks"		"4446"
+						"Playtime"		"50330"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1745630661"
+							"lastexit"		"1745632488"
+						}
+						"BadgeData"		"020000000809"
+						"DisableUpdatesUntil"		"0"
+						"LaunchOptions"		"+cl_showfps 0 +mat_queue_mode 2 -nojoy -nopreload -novid -tickrate 128 -console -high -limitvsconst +exec autoexec.cfg  -allow_third_party_software +exec Horizon/load"
+					}
+					"208650"
+					{
+						"LastPlayed"		"1699719798"
+						"Playtime"		"994"
+					}
+					"255710"
+					{
+						"LastPlayed"		"1741327103"
+						"Playtime"		"253"
+					}
+					"271590"
+					{
+						"LastPlayed"		"1700752826"
+						"Playtime"		"1532"
+					}
+					"558990"
+					{
+						"LastPlayed"		"1688142854"
+						"Playtime"		"64"
+					}
+					"588650"
+					{
+						"LastPlayed"		"1741305257"
+						"Playtime"		"439"
+					}
+					"714010"
+					{
+						"LastPlayed"		"1745632539"
+						"Playtime"		"2341"
+						"Playtime2wks"		"1890"
+					}
+					"803330"
+					{
+						"LastPlayed"		"1739688239"
+						"Playtime"		"479"
+					}
+					"824270"
+					{
+						"LastPlayed"		"1697184308"
+						"Playtime"		"411"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1172470"
+					{
+						"LastPlayed"		"1697010160"
+						"Playtime"		"73"
+					}
+					"1272080"
+					{
+						"LastPlayed"		"1741334360"
+						"Playtime"		"288"
+					}
+					"1426210"
+					{
+						"LastPlayed"		"1741350733"
+						"Playtime"		"396"
+					}
+					"1444480"
+					{
+						"LastPlayed"		"1739688458"
+						"Playtime"		"754"
+					}
+					"1517290"
+					{
+						"LastPlayed"		"1741316168"
+						"Playtime"		"321"
+					}
+					"1555400"
+					{
+						"LastPlayed"		"1700336861"
+						"Playtime"		"29"
+					}
+					"1868140"
+					{
+						"LastPlayed"		"1700921249"
+						"Playtime"		"564"
+					}
+					"1919590"
+					{
+						"LastPlayed"		"1688120809"
+						"Playtime"		"219"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1938090"
+					{
+						"LastPlayed"		"1675701033"
+						"Playtime"		"115"
+					}
+					"2470640"
+					{
+						"LastPlayed"		"1701418793"
+						"Playtime"		"29"
+					}
+					"2248180"
+					{
+						"LastPlayed"		"1741232913"
+						"Playtime"		"14"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1741232294"
+							"lastexit"		"1741232916"
+						}
+						"BadgeData"		"020000000809"
+					}
+					"391540"
+					{
+						"LastPlayed"		"1741323453"
+						"Playtime"		"209"
+					}
+					"1736630"
+					{
+						"LastPlayed"		"1735813086"
+						"Playtime"		"378"
+					}
+					"413150"
+					{
+						"LastPlayed"		"1743069650"
+						"Playtime"		"259"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1743067464"
+							"lastexit"		"1743069668"
+						}
+						"BadgeData"		"020000000809"
+					}
+					"3167550"
+					{
+						"LastPlayed"		"1741233720"
+						"Playtime"		"198"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1741232115"
+							"lastexit"		"1741233723"
+						}
+						"BadgeData"		"020000000809"
+						"PlaytimeDisconnected"		"1"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"0"
+							"used_files"		"0"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"3240220"
+					{
+						"3240220_eula_0"		"1"
+						"LastPlayed"		"1742722299"
+						"BadgeData"		"020000000809"
+						"Playtime"		"4985"
+					}
+					"1905180"
+					{
+						"LastPlayed"		"1742274016"
+						"Playtime"		"1389"
+						"BadgeData"		"020000000809"
+					}
+					"241100"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1745630662"
+							"lastexit"		"1745632490"
+						}
+					}
+					"35140"
+					{
+						"LastPlayed"		"1741336179"
+						"Playtime"		"198"
+					}
+					"200260"
+					{
+						"LastPlayed"		"1741338005"
+						"Playtime"		"213"
+					}
+					"728880"
+					{
+						"LastPlayed"		"1741370754"
+						"Playtime"		"516"
+					}
+					"2767030"
+					{
+						"LastPlayed"		"1741466515"
+						"Playtime"		"13"
+					}
+					"729040"
+					{
+						"LastPlayed"		"1741892588"
+						"Playtime"		"3"
+					}
+					"550"
+					{
+						"LastPlayed"		"1742021551"
+						"Playtime"		"182"
+					}
+					"1862520"
+					{
+						"LastPlayed"		"1742274501"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1742274110"
+							"lastexit"		"1742274501"
+						}
+						"BadgeData"		"020000000809"
+						"Playtime"		"6"
+					}
+					"2965280"
+					{
+						"LastPlayed"		"1744985266"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1742370105"
+							"lastexit"		"1742370669"
+						}
+						"BadgeData"		"020000000809"
+						"Playtime"		"177"
+						"Playtime2wks"		"167"
+					}
+					"289070"
+					{
+						"289070_eula_0"		"0"
+						"LastPlayed"		"1745006454"
+						"BadgeData"		"020000000809"
+						"Playtime"		"404"
+						"Playtime2wks"		"400"
+					}
+					"3194140"
+					{
+						"LastPlayed"		"1743070781"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1743069852"
+							"lastexit"		"1743070800"
+						}
+						"BadgeData"		"020000000809"
+						"Playtime"		"15"
+					}
+					"1920960"
+					{
+						"LastPlayed"		"1743076614"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1743070965"
+							"lastexit"		"1743076632"
+						}
+						"BadgeData"		"020000000809"
+						"Playtime"		"94"
+					}
+					"2507950"
+					{
+						"2507950_eula_0"		"3"
+						"LastPlayed"		"1743226081"
+					}
+					"883710"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1245620"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1745629204"
+				"PlayerLevel"		"9"
+				"SmallMode"		"0"
+				"ShaderCacheManager"
+				{
+					"LastSeenBackendHitCacheGeneration"		"4"
+				}
+			}
+		}
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"0"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{405dc092-3ab9-493f-a7ac-907e98579b1a}"
+		"DefaultAudioDeviceName"		"扬声器 (USB Audio Device)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{b13a71e3-fd1f-49c5-90c8-68d297ce0f0f}"
+		"DefaultMicrophoneName"		"麦克风 (Razer Seiren Mini)"
+	}
+	"friends"
+	{
+		"930576412"
+		{
+			"NameHistory"
+			{
+				"0"		"KKKK"
+			}
+			"name"		"KKKK"
+			"avatar"		"738345e90541ec9e092fdad6321ae639eed49e4b"
+		}
+		"PersonaName"		"KKKK"
+		"communitypreferences"		"18002000280130013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
+		"103582791474256787"
+		{
+			"name"		"KEVIN PLANNING"
+			"tag"		"KQILJDN"
+			"avatar"		"0000000000000000000000000000000000000000"
+		}
+		"1853870918"
+		{
+			"name"		"请输入文本"
+			"NameHistory"
+			{
+				"0"		"请输入文本"
+			}
+		}
+		"886165311"
+		{
+			"name"		"nObOdy)"
+			"NameHistory"
+			{
+				"0"		"nObOdy)"
+			}
+			"avatar"		"797d5d1e0a78b9af6ad1b27569a6d2c68241ba57"
+		}
+		"379568791"
+		{
+			"name"		"JimmiePie_the Pinky"
+			"NameHistory"
+			{
+				"0"		"JimmiePie_the Pinky"
+			}
+			"avatar"		"f815991d665513b8a8c4f11adfae522228fdbacc"
+		}
+		"294687507"
+		{
+			"name"		"✪ ARC."
+			"NameHistory"
+			{
+				"0"		"✪ ARC."
+			}
+			"avatar"		"da30241def33fad6261a7996dbd3aa5609faf44e"
+		}
+		"1116165143"
+		{
+			"name"		"Aleksibyy"
+			"NameHistory"
+			{
+				"0"		"Aleksibyy"
+			}
+			"avatar"		"372d96afd9d1fdfec6a80f4b445b8cb313cce14c"
+		}
+		"1122832124"
+		{
+			"name"		"Bonjour?"
+			"NameHistory"
+			{
+				"0"		"Bonjour?"
+			}
+		}
+		"1378761780"
+		{
+			"name"		"sds4dzdj"
+			"NameHistory"
+			{
+				"0"		"sds4dzdj"
+			}
+		}
+		"1184380084"
+		{
+			"name"		"听不见"
+			"NameHistory"
+			{
+				"0"		"听不见"
+			}
+			"avatar"		"8dfe278c7493b6984540e57ecd57b791df13841e"
+		}
+		"1439588101"
+		{
+			"name"		"dldtke"
+			"NameHistory"
+			{
+				"0"		"dldtke"
+			}
+		}
+		"1630632970"
+		{
+			"name"		"funny"
+			"NameHistory"
+			{
+				"0"		"funny"
+			}
+		}
+		"1043219455"
+		{
+			"name"		"茕珩"
+			"NameHistory"
+			{
+				"0"		"茕珩"
+			}
+			"avatar"		"1ef7f9e2612cab4a0348cbecd7b458fdbb95329b"
+		}
+		"1023946544"
+		{
+			"name_pending_review"		"1"
+			"name"		"预制菜的神"
+			"NameHistory"
+			{
+				"0"		"预制菜的神"
+			}
+			"avatar"		"1885ef2e3653c1e542c56119634e2d8dcfc62e31"
+		}
+		"1135421849"
+		{
+			"name"		"zaphkiel"
+			"NameHistory"
+			{
+				"0"		"zaphkiel"
+			}
+			"avatar"		"e483a28db3cf2c8011e62cd24a88d8738acaae15"
+		}
+		"1586021182"
+		{
+			"name"		"Orodurin"
+			"NameHistory"
+			{
+				"0"		"Orodurin"
+				"1"		"Kafu Wong"
+			}
+			"avatar"		"eee516b7c3d43b948efa027dc9d1fbff24696cd1"
+		}
+		"1005794669"
+		{
+			"name"		"斯内克"
+			"NameHistory"
+			{
+				"0"		"斯内克"
+			}
+			"avatar"		"c4e9a7eabbb4a258b835938b4dbbe73f81ef008b"
+		}
+		"1442758980"
+		{
+			"name_pending_review"		"1"
+			"name"		"Kevin Sherlock"
+			"NameHistory"
+			{
+				"0"		"Kevin Sherlock"
+			}
+			"avatar"		"2501016e71beb1df2a1edeb3fe8517df29a40b0e"
+			"avatar_pending_review"		"1"
+		}
+		"1253392533"
+		{
+			"name"		"朱丽叶和猪过夜"
+			"NameHistory"
+			{
+				"0"		"朱丽叶和猪过夜"
+			}
+			"avatar"		"3c38a4e66c96a4fd237178576b317f530659566d"
+			"avatar_pending_review"		"1"
+		}
+		"365636871"
+		{
+			"name_pending_review"		"1"
+			"name"		"接的好，弟弟"
+			"NameHistory"
+			{
+				"0"		"接的好，弟弟"
+			}
+			"avatar"		"236caf4df5cd405840c6f01ca849e8bd345fb90e"
+		}
+		"1702036979"
+		{
+			"name_pending_review"		"1"
+			"name"		"能打能保 长相十分英俊"
+			"NameHistory"
+			{
+				"0"		"能打能保 长相十分英俊"
+				"1"		"能打能保，长相十分英"
+			}
+			"avatar"		"4f5048f60dd94c790cd003f7b98837e0318fab77"
+			"avatar_pending_review"		"1"
+		}
+		"1105891015"
+		{
+			"name"		"Maple"
+			"NameHistory"
+			{
+				"0"		"Maple"
+				"1"		"香辣鸡腿堡"
+			}
+			"avatar"		"c45f917b6abfd5fd923c4184f8800e43fdedac69"
+		}
+		"1604341042"
+		{
+			"name"		"zlok6422"
+			"NameHistory"
+			{
+				"0"		"zlok6422"
+			}
+		}
+		"1098962047"
+		{
+			"name"		"Aрachе - YouТube 160k+"
+			"NameHistory"
+			{
+				"0"		"Aрachе - YouТube 160k+"
+			}
+			"avatar"		"ac3e7c0dc5be90df24890aa057daca5c8c158626"
+		}
+	}
+	"SharedAuth"
+	{
+		"id"		"1263373266"
+		"AuthData"		"3f97e68dff63620cbe42d2c8c4efcea6b9fdfb6d90f18e59ef11995bd9755b65"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"091c787737000000004800"
+		"Signature"		"2a45f21f8c2368575b16e37698704779f8f9462116c592d5cce21269fd7df37277b4eecf56f58a7c7a199cb3c128db719dfadca5ca57acac7732cdfb2ea8e9d4fb878c7f68a29144a1c2c80d664e5048c4046ebcc784ba8802223772f22a9bc4471431db3fdc1ed3b69e135dd71ca434d8a5f6733b137bdd078ec83461b0b633af5716aad6ed42e8ef3e8cffdcce77cfa539866beded417e79dafbd4808993da5d90a337c170075f72c3f42f94b0d982c239db7be83d01610cae1f947a65ed74aa5d2d70d4e8fed4c0803cb6142c8e024f655805437d15c1bc12337fb58ce0f18dedeef726d0b244b684c53124eda85239ca5efe3f498ab14f592841a90da15c"
+	}
+	"Offline"
+	{
+		"Ticket"		"089cf0ddbb03156c330c68"
+		"Signature"		"353af4eaa5b4c48fa1e5d9ec7a8172470f03e59d1bac5301e85f2711e6050e8ca4a100a2763afb7b5bf446d7e12abde551dcf8899a3c71175f1bc1970458a9cb2f443dc053e30a793af6537cd219cc4b7c0c661ed185bb15e69f3883f2ffdcb5bff91bcff4837be8c06955e937add08700bbd91156d0b65fb6f770184d664f8a2595657ce6f8297ba526b1c206cc529538c6e94f78d11936f3ea6aab6c4de2b568454302b186e40580884fdca40b1d85a32fa38c4e3e5337832a95ff7343bc2a228fe6b5fc14f7e031f89d54a3d6eb4719515eb90bf3b605227703056fa932f58006348646ee7790db62868a06a88047ecf6a946648b70f999f5ad7f7b81f4af"
+		"EncryptedTicket"		"0a202cf6509fd3cfbea231a2c536b05fb3588ec72759296b78bd92919235cdf1d9a7128002353af4eaa5b4c48fa1e5d9ec7a8172470f03e59d1bac5301e85f2711e6050e8ca4a100a2763afb7b5bf446d7e12abde551dcf8899a3c71175f1bc1970458a9cb2f443dc053e30a793af6537cd219cc4b7c0c661ed185bb15e69f3883f2ffdcb5bff91bcff4837be8c06955e937add08700bbd91156d0b65fb6f770184d664f8a2595657ce6f8297ba526b1c206cc529538c6e94f78d11936f3ea6aab6c4de2b568454302b186e40580884fdca40b1d85a32fa38c4e3e5337832a95ff7343bc2a228fe6b5fc14f7e031f89d54a3d6eb4719515eb90bf3b605227703056fa932f58006348646ee7790db62868a06a88047ecf6a946648b70f999f5ad7f7b81f4af18062208b7569b4ca196547528043208a8b196858992e571"
+		"EncryptedSignature"		"353af4eaa5b4c48fa1e5d9ec7a8172470f03e59d1bac5301e85f2711e6050e8ca4a100a2763afb7b5bf446d7e12abde551dcf8899a3c71175f1bc1970458a9cb2f443dc053e30a793af6537cd219cc4b7c0c661ed185bb15e69f3883f2ffdcb5bff91bcff4837be8c06955e937add08700bbd91156d0b65fb6f770184d664f8a2595657ce6f8297ba526b1c206cc529538c6e94f78d11936f3ea6aab6c4de2b568454302b186e40580884fdca40b1d85a32fa38c4e3e5337832a95ff7343bc2a228fe6b5fc14f7e031f89d54a3d6eb4719515eb90bf3b605227703056fa932f58006348646ee7790db62868a06a88047ecf6a946648b70f999f5ad7f7b81f4af"
+	}
+	"apptickets"
+	{
+		"7"		"32000000040000001c787737010010010700000029b79fafb290400a000000006c330c68ece227680100000000000000000076209af016c32634f397fdabb02dec88a9a273fc559165cae340620d093480243a295aad53f67e7a95e7939c8a08fbeae25f7f2a2a26572ed94b500d29b9eb5a07e35c8809f6518e94451c31be7c8de072deaf67435eccd935d718c36cd1f4fe4e60d4d562e8dbe50c44956e01edc06aa5d24861d19062c808de3ea9080963a2"
+		"730"		"50000000040000001c78773701001001da02000029b79fafb290400a000000009a4106681af1216801000dd300000500e40200000000b48809000000b6880900000028c92200000029c9220000000000c450d9167f53472d7d969edb5b1586c877b51e4b84e29683b5895a320f08bf7fddb0b0f748504d0628191583458b1d4992335319f1e1d7f840180036ac06bf5c36d46d834984d1a896fd2a6cb0ace5a16a29575ed792273193934a99ac199edc766a6bf3882e052066df3a0bce976a79bb46a804993e316161a6be58888f8296"
+		"2279720"		"32000000040000001c7877370100100128c9220029b79fafb290400a000000009a4106681af1216801000dd30000000000000b5d6680036980d9a730f4f6ec1c66ccadb70ac85e689b59a8dadf32595ac86045b214d34357c6d718d5c60cd0987013e2d05a6251c34f8365dae2b01660f94ce4163fd639af3e6acc982414d52b5b0dc8715a21031b4c076ce8adbac3e94477c1a56a4c0c83d266c90a5f2627984fae8b1352088b7ef308ae5a170798962229"
+		"2279721"		"32000000040000001c7877370100100129c9220029b79fafb290400a000000009a4106681af1216801000dd30000000000004f50f89fb99bbec6f61c82c3e0255be7f7e5aff463e5e42416ad9eb9adc9ba55956c0c99513f66066adc0b24b59d2032b4157b8317fdb49b077f326f82b3eda3d167d4e85914d30205f2211c3390d8e61ae751f1c969f8638e9fced9bd74548d9eb66bfd866f7740da9a930389af11b863011bb8a1ece29d3b6492d388821fe7"
+		"228980"		"32000000040000001c78773701001001747e030029b79fafb290400a000000009a4106681af12168010000000000000000004669e1c0141dc78db0c27ad8d96dc2a71850d8c1cbaff0bf32541d3f7a3c5944dd3bc427cf4a4710f7e18b28ceda76eab9cb13123fbb12e98d8890ef5df267926ab7283333bfb4810514a3e03b3e77a5028c76fbb731be5ed84fffc556131de178d48fa721444e78b766104b5150f9cce6abda11635f1e732a40ebbe2ceb7759"
+		"3240220"		"32000000040000001c787737010010011c71310029b79fafb290400a0000000048b90068c8681c680100498e000000000000416ee5fd5452cc6a0cc04e55b94cd807e5b728f70c6a2878cf485d813b587074f26365422796a2a5f953f54aebf050b8545353007393856bb4a26e3128b08015b32387542ed9b01b7f512298604f5eff83899ed7ff21a575ef7e0fa68c478a767cdf547771a7f7f3635fc66fc7edeb40b3c8b3a0e8ac38dcfee26476814382e4"
+		"1905180"		"32000000040000001c787737010010011c121d0029b79fafb290400a000000000739e46787e8ff67010025780a00000000003cdf829658ac7d47c5c405eed3977191a6ddb15fbaad79264c9228525a79df6afaeac4b73255bef50134e1d996cc9662cbc0d2abde45da5afe5adff57e36fbd2291c81791887bef610f5abdb9fb2ba2546b67dca4cd442db39f6bbf9dd612ab9c1130da76f44fb6fb4b5440809ab2fdba990d6aebb22d987eb0d7df36125fecc"
+		"3167550"		"38000000040000001c787737010010013e55300029b79fafb290400a0000000048b90068c8681c68010092261100010004ea340000000000c474aa7f653f10ca7d9bcb67f6760beed39e78f3ed006612648f1a4a593f2a3a8dd002b7aaf9c83030abf0a15cde92b5c82473dc78d9d16665b416f34774bc86a3b1b90609df95620b35d9434f8c44cc5a5924feb039fd4130d35ff4e732d9e434d2d84dc95c46dc9d858fa60023fff043a8289bdab737861a2ff6950eaf35bc"
+		"3467780"		"32000000040000001c7877370100100104ea340029b79fafb290400a0000000048b90068c8681c680100b9b11200000000002c22d0f1d9fa64592b10acf8133a0116b25332f661721fb856230c42815fdc0de4ed97e0e5555714c3c3800c42ad451548062def4e46f94a155a57bca16706f26d655203ec61387855c906ccc0cbeb8167fa87c49c5c58cd2853fcc84a37277b77d3ca05f057ca7c8a498c5ad18effc08019c090fc5b14d7e1cb4874dae01ac3"
+		"2248180"		"32000000040000001c78773701001001f44d220029b79fafb290400a000000009a4106681af121680100dd4c0c00000000006c368643d92676f08e17f0362826fd85bc920d996133bcd8b03bb4a0a96b4bb0bca523f6b14f58a9f1edf9f20c000db858d10124386110df19000628b34fb6af3e1b25b5cae6ce196daf6d24cb4ec68d87cd213cc19bb9825464be72886d5693c83e9b5d010b6a7698c36b76430f31803dbe49873b88b6619b3fc2e30881abd0"
+		"1919590"		"32000000040000001c78773701001001664a1d0029b79fafb290400a0000000048b90068c8681c680100de970b00000000006b4676e472cb44493119389e6ae3c4919d4f7c3d584a0b6e743b66d58069047c1d102f87325560c5e40ad485b6d270066b2e668b2a1d1be1e365730ea88030d2b445f540c8a7c861cfbcf09e3887ff8618667bcff537828db93ff946844598c7e25aebce54293929c70a84411d22b310b96db12473883c8a432d0ac9f549b639"
+		"271590"		"38000000040000001c78773701001001e624040029b79fafb290400a00000000082ad66788d9f1670100498e000001001386050000000000279230bd5580799628a7c836d29d8dc9385f61c9692080e7a5b921ca0cf1f3ed0b347d19ce547b76e2a9b007dcc5c2f64c064c9d6b069ea1736547bbd10b4daf31edb10381882410681b223cb0980dcc996859fde473175a55cc7d314209d49aa5d76f7f5ed0e2128a6e62d53c663d97eb162f3d1a3a9f3940aba6f7a4d44b12"
+		"362003"		"32000000040000001c787737010010011386050029b79fafb290400a00000000082ad66788d9f1670100498e00000000000043a79467c337ca70d9d3828ee6ca83d14568e608e390a613f3113c7417c00ae66cd0e6559ca646d85ef4e6d6933137d4590f78775a7ce613e4fdc03fb4ec4feca6ccc0bead9f7b434f64caa6de22dd13ef0325f6b8fc1c42f7aa9b9ae5c02d652e80b1b4d6bc62ec8e8b9501aabf86cf4b42b144b87fda383aba75cba0d40b21"
+		"1862520"		"32000000040000001c78773701001001786b1c0029b79fafb290400a000000009a4106681af121680100bd390a00000000001755e7bf4df7d39f77ef3edfafd4b26c657b606667c52fd48b6ba65e9ff1360627eee996d55a3d75cd31b375f8e56b3e40c7b113c1c45298452e4d7aa078989c50003884921f9dc624cd60350519a1200dd870f9119d4b250cde7bd04cfce366d6e467f841862b1646128d9a207e9830fbf47b68abb3cb66c5325ce69588998c"
+		"824270"		"32000000040000001c78773701001001ce930c0029b79fafb290400a000000009a4106681af121680100b62e080000000000df41b9adc622c16239b995706551fbef618c0d4312e3a5c7c9cf9a3143c70b1a6589bcd56686b122bc55b03785e49cf9621dac434ee2f2fca02ae81a12ae811b370e10315a7f6454896fcc587ca60f9671f3d107d8421349e3507b84deaf1f74c8de615b5864942d51fd5428159ef8b73d5bb6b05b7d7ba867367f49846af116"
+		"2965280"		"32000000040000001c78773701001001203f2d0029b79fafb290400a000000009a4106681af121680100e01b10000000000051d809265f0064e8ebb10d396a84574cc68dec08b431ad13d5747fc31d7ecf0e4e23972debb6b9b0f8baa8d702f627407162aa4dfb279487bc9a401787fafb98cec03a80ffe6954afac202de23ad2c3f2ee6b4a89b651a04a101684900dc364a35234fef47db7fe4b0ab99db3160d706e1e4482ef39efd1e21ab923acae9ff0d"
+		"289070"		"44000000040000001c787737010010012e69040029b79fafb290400a00000000dfcee8675f7e046801004fe1010003007e2b060000001ed0070000000c1d09000000000067786457b3b6ea6dda8d428856dbe89bf2f83dd2c18f181c2c73e4291164bf05dfbad0994db05ca36daee1729e08b0f0a6bc31f060b72394b440313f77af300650b73bf287ba58d6db9cc7a9fef9ddd3bc8d392083b89ed853d453baa3ffc5e7ff2552bbf4b16f38be2e9b8e7c2777ec2c622eb305afe9311ed4a559b27e74c5"
+		"512030"		"32000000040000001c787737010010011ed0070029b79fafb290400a000000008d43ea670df3056801004fe1010000000000990b6cfcff5549253fdbeae88def061a79fd929803446b14d0574ef00122b4f707ce75425b0d1474bbef901c4ae8c9a229388d2d87e26a1ea12c86bceb4d35037ca134d9aaaae19cae30e3237beeb7489e0630bd40ba99f475463a4f52d6b45daa41e6af57ca84dc7daa31d98ab2b24f8e671b89095432703dc9c25c5a0ee07f"
+		"413150"		"32000000040000001c78773701001001de4d060029b79fafb290400a000000004a050168cab41c680100184301000000000067ace63e2baabd231bfa2f7748150cfb0ade007dd92eebbc8bb5a4e969085a7d880d70a82332c8d82ea1dd2dfb0677bc691d7016348892bc946c19bf2681f239ebb8f12c131e8b7b812d97f1cd600925e1ad358cb98a79d669ccebb1a8cb76590d5822136f31d60d0217b4d0975cd018b1f08d04a0aa5ef90abd1d557ae4ef84"
+		"3194140"		"32000000040000001c787737010010011cbd3000206dbdcab290400a000000007c470268fcf61d680100f748110000000000758e9903068ad6de5ce6c1765903893f0d71dd3065c084f7e6d92d4b70c32d34d3e29bcc6a698d60df938a3afd5838f2b88d3fac1fcdc665258457fcb96652c248f6dac50fcac316c38db3ac7041e202910ab4118f660dd5f83deab7de2aded28a5617d8c09eb73c4dfbeb66cb758ea388ef64b120979784613f5ef4a4163bc7"
+		"1920960"		"32000000040000001c78773701001001c04f1d00206dbdcab290400a000000007c470268fcf61d680100fd8e0a00000000000015e518d99b108fb1cf346a6ee955fb7bad0fc187528c935b35b18e2497c4770ec29c5bc9f02a453bae8935d97d64f8ee963dddb51ef1a7e317b302dc6d8179277c7b88f1129ee63c1b2a08ce12f7458e049222ab9d0d9f497d86c3235baec1a4cb8b789f552743fc2c02ea88615fd648bef776926785311d6c95458fde3510"
+		"2507950"		"32000000040000001c78773701001001ae44260029b79fafb290400a00000000e284e767623403680100ffdf100000000000dd383085215bde2a54b85d109977fadafce156c121072e1e399e036ad58997db72765f01be2177e332e4b975623443b89086325417cb94edbd28386545d2d393815bde3a4be4553e548b696e930824df929f12e23c1cf5bacfe9b3cfab088fc63785e3cb28bf258a68eb2f4b16d3f3b8c546336716fbc17899d8ee55fd5eb028"
+	}
+	"CloudKey"		"01000000c164514cd35ebfab68bf42d580a77a7c8e53a7a698fe1dc784543493503ca13c442f02e7"
+	"CloudKeyCRC"		"1076818903"
+	"AppInfoChangeNumber"		"28678365"
+	"CloudManager"
+	{
+		"HintAppsToPreload"		"241100"
+	}
+	"FavoriteServersLastUpdateTime"		"1745554399"
+	"WebStorage"
+	{
+		"SteamVoiceSettings_930576412"		"{\"inputGain\":4,\"outputGain\":1,\"noiseGateLevel\":0,\"noiseCancellation\":false,\"echoCancellation\":false,\"autoGainControl\":false,\"selectedMic\":\"7fb6833f5fd0451aa9519859c81da18644cc9e7549234e89141ebcd35b2220c7\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true,\"useSteamAudioSpatialization\":false}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]},\"provide_deck_feedback\":0}"
+		"LocalizedTagNames_schinese"		"{\"version_hash\":\"1981078833\",\"tags\":[{\"tagid\":9,\"name\":\"策略\"},{\"tagid\":19,\"name\":\"动作\"},{\"tagid\":21,\"name\":\"冒险\"},{\"tagid\":84,\"name\":\"设计与插画\"},{\"tagid\":87,\"name\":\"实用工具\"},{\"tagid\":113,\"name\":\"免费开玩\"},{\"tagid\":122,\"name\":\"角色扮演\"},{\"tagid\":128,\"name\":\"大型多人在线\"},{\"tagid\":492,\"name\":\"独立\"},{\"tagid\":493,\"name\":\"抢先体验\"},{\"tagid\":597,\"name\":\"休闲\"},{\"tagid\":599,\"name\":\"模拟\"},{\"tagid\":699,\"name\":\"竞速\"},{\"tagid\":701,\"name\":\"体育\"},{\"tagid\":784,\"name\":\"视频制作\"},{\"tagid\":809,\"name\":\"照片编辑\"},{\"tagid\":872,\"name\":\"动画制作和建模\"},{\"tagid\":1027,\"name\":\"音频制作\"},{\"tagid\":1036,\"name\":\"教育\"},{\"tagid\":1038,\"name\":\"网络出版\"},{\"tagid\":1445,\"name\":\"软件培训\"},{\"tagid\":1616,\"name\":\"火车\"},{\"tagid\":1621,\"name\":\"音乐\"},{\"tagid\":1625,\"name\":\"平台游戏\"},{\"tagid\":1628,\"name\":\"类银河战士恶魔城\"},{\"tagid\":1638,\"name\":\"狗\"},{\"tagid\":1643,\"name\":\"建造\"},{\"tagid\":1644,\"name\":\"驾驶\"},{\"tagid\":1645,\"name\":\"塔防\"},{\"tagid\":1646,\"name\":\"砍杀\"},{\"tagid\":1647,\"name\":\"西部\"},{\"tagid\":1649,\"name\":\"游戏制作\"},{\"tagid\":1651,\"name\":\"讽刺\"},{\"tagid\":1654,\"name\":\"放松\"},{\"tagid\":1659,\"name\":\"僵尸\"},{\"tagid\":1662,\"name\":\"生存\"},{\"tagid\":1663,\"name\":\"第一人称射击\"},{\"tagid\":1664,\"name\":\"解谜\"},{\"tagid\":1665,\"name\":\"三消\"},{\"tagid\":1666,\"name\":\"卡牌游戏\"},{\"tagid\":1667,\"name\":\"恐怖\"},{\"tagid\":1669,\"name\":\"可模组化\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"超级英雄\"},{\"tagid\":1673,\"name\":\"外星人\"},{\"tagid\":1674,\"name\":\"打字\"},{\"tagid\":1676,\"name\":\"即时战略\"},{\"tagid\":1677,\"name\":\"回合制\"},{\"tagid\":1678,\"name\":\"战争\"},{\"tagid\":1680,\"name\":\"劫掠\"},{\"tagid\":1681,\"name\":\"海盗\"},{\"tagid\":1684,\"name\":\"奇幻\"},{\"tagid\":1685,\"name\":\"合作\"},{\"tagid\":1687,\"name\":\"潜行\"},{\"tagid\":1688,\"name\":\"忍者\"},{\"tagid\":1693,\"name\":\"经典\"},{\"tagid\":1695,\"name\":\"开放世界\"},{\"tagid\":1697,\"name\":\"第三人称\"},{\"tagid\":1698,\"name\":\"指向点击\"},{\"tagid\":1702,\"name\":\"制作\"},{\"tagid\":1708,\"name\":\"战术\"},{\"tagid\":1710,\"name\":\"超现实\"},{\"tagid\":1714,\"name\":\"迷幻\"},{\"tagid\":1716,\"name\":\"类 Rogue\"},{\"tagid\":1717,\"name\":\"六角格棋盘\"},{\"tagid\":1718,\"name\":\"多人在线战术竞技\"},{\"tagid\":1719,\"name\":\"喜剧\"},{\"tagid\":1720,\"name\":\"迷宫探索\"},{\"tagid\":1721,\"name\":\"心理恐怖\"},{\"tagid\":1723,\"name\":\"动作即时战略\"},{\"tagid\":1730,\"name\":\"推箱子\"},{\"tagid\":1732,\"name\":\"体素\"},{\"tagid\":1733,\"name\":\"低容错\"},{\"tagid\":1734,\"name\":\"快节奏\"},{\"tagid\":1736,\"name\":\"乐高\"},{\"tagid\":1738,\"name\":\"隐藏物体\"},{\"tagid\":1741,\"name\":\"回合战略\"},{\"tagid\":1742,\"name\":\"剧情丰富\"},{\"tagid\":1743,\"name\":\"格斗\"},{\"tagid\":1746,\"name\":\"篮球\"},{\"tagid\":1751,\"name\":\"漫画\"},{\"tagid\":1752,\"name\":\"节奏\"},{\"tagid\":1753,\"name\":\"滑板\"},{\"tagid\":1754,\"name\":\"大型多人在线角色扮演\"},{\"tagid\":1755,\"name\":\"太空\"},{\"tagid\":1756,\"name\":\"好评原声音轨\"},{\"tagid\":1759,\"name\":\"永久死亡\"},{\"tagid\":1770,\"name\":\"棋盘游戏\"},{\"tagid\":1773,\"name\":\"街机\"},{\"tagid\":1774,\"name\":\"射击\"},{\"tagid\":1775,\"name\":\"玩家对战\"},{\"tagid\":1777,\"name\":\"蒸汽朋克\"},{\"tagid\":3796,\"name\":\"小说改编\"},{\"tagid\":3798,\"name\":\"横向滚屏\"},{\"tagid\":3799,\"name\":\"视觉小说\"},{\"tagid\":3810,\"name\":\"沙盒\"},{\"tagid\":3813,\"name\":\"即时战术\"},{\"tagid\":3814,\"name\":\"第三人称射击\"},{\"tagid\":3834,\"name\":\"探索\"},{\"tagid\":3835,\"name\":\"后末日\"},{\"tagid\":3839,\"name\":\"第一人称\"},{\"tagid\":3841,\"name\":\"本地合作\"},{\"tagid\":3843,\"name\":\"在线合作\"},{\"tagid\":3854,\"name\":\"故事架构丰富 \"},{\"tagid\":3859,\"name\":\"多人\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"精确平台\"},{\"tagid\":3878,\"name\":\"竞技\"},{\"tagid\":3916,\"name\":\"老式\"},{\"tagid\":3920,\"name\":\"烹饪\"},{\"tagid\":3934,\"name\":\"沉浸式\"},{\"tagid\":3942,\"name\":\"科幻\"},{\"tagid\":3952,\"name\":\"哥特\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"角色动作\"},{\"tagid\":3959,\"name\":\"轻度 Rogue\"},{\"tagid\":3964,\"name\":\"像素图形\"},{\"tagid\":3965,\"name\":\"史诗级\"},{\"tagid\":3968,\"name\":\"物理\"},{\"tagid\":3978,\"name\":\"生存恐怖\"},{\"tagid\":3987,\"name\":\"历史\"},{\"tagid\":3993,\"name\":\"战斗\"},{\"tagid\":4004,\"name\":\"复古\"},{\"tagid\":4018,\"name\":\"吸血鬼\"},{\"tagid\":4026,\"name\":\"困难\"},{\"tagid\":4036,\"name\":\"跑酷\"},{\"tagid\":4046,\"name\":\"龙\"},{\"tagid\":4057,\"name\":\"魔法\"},{\"tagid\":4064,\"name\":\"惊悚\"},{\"tagid\":4085,\"name\":\"动漫\"},{\"tagid\":4094,\"name\":\"极简主义\"},{\"tagid\":4102,\"name\":\"战斗竞速\"},{\"tagid\":4106,\"name\":\"动作冒险\"},{\"tagid\":4115,\"name\":\"赛博朋克\"},{\"tagid\":4136,\"name\":\"欢乐\"},{\"tagid\":4137,\"name\":\"超人类主义\"},{\"tagid\":4145,\"name\":\"电影式\"},{\"tagid\":4150,\"name\":\"二战\"},{\"tagid\":4155,\"name\":\"职业导向\"},{\"tagid\":4158,\"name\":\"清版动作\"},{\"tagid\":4161,\"name\":\"即时\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"氛围\"},{\"tagid\":4168,\"name\":\"军事\"},{\"tagid\":4172,\"name\":\"中世纪\"},{\"tagid\":4175,\"name\":\"拟真\"},{\"tagid\":4182,\"name\":\"单人\"},{\"tagid\":4184,\"name\":\"棋类\"},{\"tagid\":4190,\"name\":\"欲罢不能\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"卡通风格\"},{\"tagid\":4202,\"name\":\"贸易\"},{\"tagid\":4231,\"name\":\"动作角色扮演\"},{\"tagid\":4234,\"name\":\"短篇\"},{\"tagid\":4236,\"name\":\"刷宝\"},{\"tagid\":4242,\"name\":\"剧集\"},{\"tagid\":4252,\"name\":\"风格化\"},{\"tagid\":4255,\"name\":\"清版射击\"},{\"tagid\":4291,\"name\":\"太空飞船\"},{\"tagid\":4295,\"name\":\"未来\"},{\"tagid\":4305,\"name\":\"彩色\"},{\"tagid\":4325,\"name\":\"回合制战斗\"},{\"tagid\":4328,\"name\":\"城市营造\"},{\"tagid\":4342,\"name\":\"黑暗\"},{\"tagid\":4345,\"name\":\"血腥\"},{\"tagid\":4364,\"name\":\"大战略\"},{\"tagid\":4376,\"name\":\"暗杀\"},{\"tagid\":4400,\"name\":\"抽象\"},{\"tagid\":4434,\"name\":\"日系角色扮演\"},{\"tagid\":4474,\"name\":\"电脑角色扮演\"},{\"tagid\":4486,\"name\":\"自选历险体验\"},{\"tagid\":4508,\"name\":\"合作战役\"},{\"tagid\":4520,\"name\":\"农场管理\"},{\"tagid\":4559,\"name\":\"快速反应事件\"},{\"tagid\":4562,\"name\":\"卡通\"},{\"tagid\":4598,\"name\":\"架空历史\"},{\"tagid\":4604,\"name\":\"黑暗奇幻\"},{\"tagid\":4608,\"name\":\"剑术\"},{\"tagid\":4637,\"name\":\"俯视射击\"},{\"tagid\":4667,\"name\":\"暴力\"},{\"tagid\":4684,\"name\":\"战争游戏\"},{\"tagid\":4695,\"name\":\"经济\"},{\"tagid\":4700,\"name\":\"电影\"},{\"tagid\":4711,\"name\":\"重玩价值\"},{\"tagid\":4726,\"name\":\"可爱\"},{\"tagid\":4736,\"name\":\"2D 格斗\"},{\"tagid\":4747,\"name\":\"角色自定义\"},{\"tagid\":4754,\"name\":\"政治\"},{\"tagid\":4758,\"name\":\"双摇杆射击\"},{\"tagid\":4777,\"name\":\"华丽格斗\"},{\"tagid\":4791,\"name\":\"俯视\"},{\"tagid\":4821,\"name\":\"机甲\"},{\"tagid\":4835,\"name\":\"六自由度\"},{\"tagid\":4840,\"name\":\"4 人本地\"},{\"tagid\":4845,\"name\":\"资本主义\"},{\"tagid\":4853,\"name\":\"政治性\"},{\"tagid\":4878,\"name\":\"谐仿\"},{\"tagid\":4885,\"name\":\"弹幕射击\"},{\"tagid\":4947,\"name\":\"爱情\"},{\"tagid\":4975,\"name\":\"2.5D\"},{\"tagid\":4994,\"name\":\"海战\"},{\"tagid\":5030,\"name\":\"反乌托邦\"},{\"tagid\":5055,\"name\":\"电竞\"},{\"tagid\":5094,\"name\":\"记叙\"},{\"tagid\":5125,\"name\":\"程序生成\"},{\"tagid\":5153,\"name\":\"Kickstarter\"},{\"tagid\":5154,\"name\":\"竞分\"},{\"tagid\":5160,\"name\":\"恐龙\"},{\"tagid\":5179,\"name\":\"冷战\"},{\"tagid\":5186,\"name\":\"心理\"},{\"tagid\":5228,\"name\":\"鲜血\"},{\"tagid\":5230,\"name\":\"续作\"},{\"tagid\":5300,\"name\":\"上帝模拟\"},{\"tagid\":5310,\"name\":\"游戏工坊\"},{\"tagid\":5348,\"name\":\"模组\"},{\"tagid\":5350,\"name\":\"阖家\"},{\"tagid\":5363,\"name\":\"破坏\"},{\"tagid\":5372,\"name\":\"阴谋\"},{\"tagid\":5379,\"name\":\"2D 平台\"},{\"tagid\":5382,\"name\":\"一战\"},{\"tagid\":5390,\"name\":\"时间竞速\"},{\"tagid\":5395,\"name\":\"3D 平台\"},{\"tagid\":5407,\"name\":\"标杆测试\"},{\"tagid\":5411,\"name\":\"唯美\"},{\"tagid\":5432,\"name\":\"编程\"},{\"tagid\":5502,\"name\":\"黑客\"},{\"tagid\":5537,\"name\":\"平台解谜\"},{\"tagid\":5547,\"name\":\"竞技场射击\"},{\"tagid\":5577,\"name\":\"RPG 制作大师\"},{\"tagid\":5608,\"name\":\"情感\"},{\"tagid\":5611,\"name\":\"成人\"},{\"tagid\":5613,\"name\":\"推理\"},{\"tagid\":5652,\"name\":\"收集马拉松\"},{\"tagid\":5673,\"name\":\"现代\"},{\"tagid\":5708,\"name\":\"重制\"},{\"tagid\":5711,\"name\":\"团队导向\"},{\"tagid\":5716,\"name\":\"悬疑\"},{\"tagid\":5727,\"name\":\"棒球\"},{\"tagid\":5752,\"name\":\"机器人\"},{\"tagid\":5765,\"name\":\"枪械改装\"},{\"tagid\":5794,\"name\":\"科学\"},{\"tagid\":5796,\"name\":\"子弹时间\"},{\"tagid\":5851,\"name\":\"等角视角\"},{\"tagid\":5900,\"name\":\"步行模拟\"},{\"tagid\":5914,\"name\":\"网球\"},{\"tagid\":5923,\"name\":\"黑色幽默\"},{\"tagid\":5941,\"name\":\"重启\"},{\"tagid\":5981,\"name\":\"采矿\"},{\"tagid\":5984,\"name\":\"剧情\"},{\"tagid\":6041,\"name\":\"马匹\"},{\"tagid\":6052,\"name\":\"黑色\"},{\"tagid\":6129,\"name\":\"逻辑\"},{\"tagid\":6214,\"name\":\"鸟\"},{\"tagid\":6276,\"name\":\"库存管理\"},{\"tagid\":6310,\"name\":\"外交\"},{\"tagid\":6378,\"name\":\"犯罪\"},{\"tagid\":6426,\"name\":\"选择取向\"},{\"tagid\":6506,\"name\":\"3D 格斗\"},{\"tagid\":6621,\"name\":\"弹球\"},{\"tagid\":6625,\"name\":\"时空操控\"},{\"tagid\":6650,\"name\":\"裸露\"},{\"tagid\":6691,\"name\":\"90 年代\"},{\"tagid\":6702,\"name\":\"火星\"},{\"tagid\":6730,\"name\":\"玩家对战环境\"},{\"tagid\":6815,\"name\":\"手绘\"},{\"tagid\":6869,\"name\":\"非线性\"},{\"tagid\":6910,\"name\":\"海军\"},{\"tagid\":6915,\"name\":\"武术\"},{\"tagid\":6948,\"name\":\"罗马\"},{\"tagid\":6971,\"name\":\"多结局\"},{\"tagid\":7038,\"name\":\"高尔夫\"},{\"tagid\":7107,\"name\":\"即时含暂停\"},{\"tagid\":7108,\"name\":\"社交聚会\"},{\"tagid\":7113,\"name\":\"众筹\"},{\"tagid\":7178,\"name\":\"社交聚会游戏\"},{\"tagid\":7208,\"name\":\"女性主角\"},{\"tagid\":7250,\"name\":\"线性\"},{\"tagid\":7309,\"name\":\"滑雪\"},{\"tagid\":7328,\"name\":\"保龄球\"},{\"tagid\":7332,\"name\":\"基地建设\"},{\"tagid\":7368,\"name\":\"本地多人\"},{\"tagid\":7423,\"name\":\"狙击手\"},{\"tagid\":7432,\"name\":\"洛夫克拉夫特式\"},{\"tagid\":7478,\"name\":\"光明会\"},{\"tagid\":7481,\"name\":\"控制器\"},{\"tagid\":7556,\"name\":\"骰子\"},{\"tagid\":7569,\"name\":\"网格导向动作\"},{\"tagid\":7622,\"name\":\"越野\"},{\"tagid\":7702,\"name\":\"叙事\"},{\"tagid\":7743,\"name\":\"80 年代\"},{\"tagid\":7782,\"name\":\"非主流经典\"},{\"tagid\":7918,\"name\":\"矮人\"},{\"tagid\":7926,\"name\":\"人工智能\"},{\"tagid\":7948,\"name\":\"原声音轨\"},{\"tagid\":8013,\"name\":\"软件\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"小游戏\"},{\"tagid\":8122,\"name\":\"关卡编辑\"},{\"tagid\":8253,\"name\":\"基于音乐的程序生成\"},{\"tagid\":8369,\"name\":\"调查\"},{\"tagid\":8461,\"name\":\"精心编写\"},{\"tagid\":8666,\"name\":\"奔跑\"},{\"tagid\":8945,\"name\":\"资源管理\"},{\"tagid\":9130,\"name\":\"动漫色情\"},{\"tagid\":9157,\"name\":\"水底\"},{\"tagid\":9204,\"name\":\"沉浸式模拟\"},{\"tagid\":9271,\"name\":\"集换式卡牌游戏\"},{\"tagid\":9541,\"name\":\"恶魔\"},{\"tagid\":9551,\"name\":\"恋爱模拟\"},{\"tagid\":9564,\"name\":\"狩猎\"},{\"tagid\":9592,\"name\":\"动态旁白\"},{\"tagid\":9803,\"name\":\"雪\"},{\"tagid\":9994,\"name\":\"体验\"},{\"tagid\":10235,\"name\":\"生活模拟\"},{\"tagid\":10383,\"name\":\"交通运输\"},{\"tagid\":10397,\"name\":\"网络梗\"},{\"tagid\":10437,\"name\":\"益智问答\"},{\"tagid\":10679,\"name\":\"时空旅行\"},{\"tagid\":10695,\"name\":\"团队角色扮演\"},{\"tagid\":10808,\"name\":\"灵异\"},{\"tagid\":10816,\"name\":\"分屏\"},{\"tagid\":11014,\"name\":\"互动小说\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"车辆作战\"},{\"tagid\":11123,\"name\":\"仅鼠标\"},{\"tagid\":11333,\"name\":\"恶人主角\"},{\"tagid\":11634,\"name\":\"维京人\"},{\"tagid\":12057,\"name\":\"教程\"},{\"tagid\":12095,\"name\":\"色情内容\"},{\"tagid\":12190,\"name\":\"拳击\"},{\"tagid\":12286,\"name\":\"战锤 40K\"},{\"tagid\":12472,\"name\":\"管理\"},{\"tagid\":13070,\"name\":\"纸牌\"},{\"tagid\":13190,\"name\":\"美国\"},{\"tagid\":13276,\"name\":\"坦克\"},{\"tagid\":13382,\"name\":\"射箭\"},{\"tagid\":13577,\"name\":\"航海\"},{\"tagid\":13782,\"name\":\"试验性\"},{\"tagid\":13906,\"name\":\"游戏开发\"},{\"tagid\":14139,\"name\":\"回合制战术\"},{\"tagid\":14153,\"name\":\"龙与地下城\"},{\"tagid\":14720,\"name\":\"怀旧\"},{\"tagid\":14906,\"name\":\"蓄意操控困难\"},{\"tagid\":15045,\"name\":\"飞行\"},{\"tagid\":15172,\"name\":\"对话\"},{\"tagid\":15277,\"name\":\"哲理\"},{\"tagid\":15339,\"name\":\"纪录片\"},{\"tagid\":15564,\"name\":\"钓鱼\"},{\"tagid\":15868,\"name\":\"摩托车越野\"},{\"tagid\":15954,\"name\":\"无声主角\"},{\"tagid\":16094,\"name\":\"神话\"},{\"tagid\":16250,\"name\":\"赌博\"},{\"tagid\":16598,\"name\":\"太空模拟\"},{\"tagid\":16689,\"name\":\"时间管理\"},{\"tagid\":17015,\"name\":\"狼人\"},{\"tagid\":17305,\"name\":\"策略角色扮演\"},{\"tagid\":17337,\"name\":\"旅鼠\"},{\"tagid\":17389,\"name\":\"桌上游戏\"},{\"tagid\":17770,\"name\":\"异步多人\"},{\"tagid\":17894,\"name\":\"猫\"},{\"tagid\":17927,\"name\":\"台球\"},{\"tagid\":18594,\"name\":\"全动态影像\"},{\"tagid\":19568,\"name\":\"骑车\"},{\"tagid\":19780,\"name\":\"潜水艇\"},{\"tagid\":19995,\"name\":\"黑色喜剧\"},{\"tagid\":21006,\"name\":\"地下\"},{\"tagid\":21725,\"name\":\"战术角色扮演\"},{\"tagid\":21978,\"name\":\"虚拟现实\"},{\"tagid\":22602,\"name\":\"农业\"},{\"tagid\":22955,\"name\":\"迷你高尔夫\"},{\"tagid\":24003,\"name\":\"文字游戏\"},{\"tagid\":24904,\"name\":\"工作场所不宜\"},{\"tagid\":25085,\"name\":\"触控\"},{\"tagid\":26921,\"name\":\"政治模拟\"},{\"tagid\":27758,\"name\":\"声控\"},{\"tagid\":28444,\"name\":\"单板滑雪\"},{\"tagid\":29363,\"name\":\"3D 视觉\"},{\"tagid\":29482,\"name\":\"类魂系列\"},{\"tagid\":29855,\"name\":\"情境\"},{\"tagid\":30358,\"name\":\"自然\"},{\"tagid\":30927,\"name\":\"狐狸\"},{\"tagid\":31275,\"name\":\"基于文字\"},{\"tagid\":31579,\"name\":\"少女游戏\"},{\"tagid\":32322,\"name\":\"牌组构建\"},{\"tagid\":33572,\"name\":\"麻将\"},{\"tagid\":35079,\"name\":\"工作模拟\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"突发惊吓\"},{\"tagid\":42329,\"name\":\"代码编写\"},{\"tagid\":42804,\"name\":\"动作类 Rogue\"},{\"tagid\":44868,\"name\":\"LGBTQ+\"},{\"tagid\":47827,\"name\":\"摔角\"},{\"tagid\":49213,\"name\":\"英式橄榄球\"},{\"tagid\":51306,\"name\":\" 外国\"},{\"tagid\":56690,\"name\":\"轨道射击\"},{\"tagid\":61357,\"name\":\"电子音乐\"},{\"tagid\":71389,\"name\":\"拼字\"},{\"tagid\":87918,\"name\":\"农场模拟\"},{\"tagid\":91114,\"name\":\"商店管理\"},{\"tagid\":92092,\"name\":\"喷气机\"},{\"tagid\":96359,\"name\":\"滑行\"},{\"tagid\":97376,\"name\":\"温馨惬意\"},{\"tagid\":102530,\"name\":\"精灵\"},{\"tagid\":117648,\"name\":\"8-bit 音乐\"},{\"tagid\":123332,\"name\":\"自行车\"},{\"tagid\":129761,\"name\":\"ATV\"},{\"tagid\":143739,\"name\":\"电子\"},{\"tagid\":150626,\"name\":\"游戏相关\"},{\"tagid\":158638,\"name\":\"板球\"},{\"tagid\":176733,\"name\":\"消除\"},{\"tagid\":176981,\"name\":\"大逃杀\"},{\"tagid\":180368,\"name\":\"信仰\"},{\"tagid\":189941,\"name\":\"器乐\"},{\"tagid\":198631,\"name\":\"不可思议迷宫\"},{\"tagid\":198913,\"name\":\"摩托车\"},{\"tagid\":220585,\"name\":\"殖民模拟\"},{\"tagid\":233824,\"name\":\"长篇电影\"},{\"tagid\":252854,\"name\":\"自行车越野\"},{\"tagid\":255534,\"name\":\"自动化\"},{\"tagid\":323922,\"name\":\"无双\"},{\"tagid\":324176,\"name\":\"冰球\"},{\"tagid\":337964,\"name\":\"摇滚乐\"},{\"tagid\":348922,\"name\":\"Steam 主机\"},{\"tagid\":353880,\"name\":\"刷宝射击游戏\"},{\"tagid\":363767,\"name\":\"斯诺克\"},{\"tagid\":379975,\"name\":\"点击游戏\"},{\"tagid\":454187,\"name\":\"传统类 Rogue\"},{\"tagid\":552282,\"name\":\"治愈系\"},{\"tagid\":603297,\"name\":\"硬件\"},{\"tagid\":615955,\"name\":\"挂机游戏\"},{\"tagid\":620519,\"name\":\"英雄射击\"},{\"tagid\":745697,\"name\":\"社交推理\"},{\"tagid\":769306,\"name\":\"密室逃脱\"},{\"tagid\":776177,\"name\":\"360 全景视频\"},{\"tagid\":791774,\"name\":\"卡牌战斗\"},{\"tagid\":847164,\"name\":\"排球\"},{\"tagid\":856791,\"name\":\"非对称 VR\"},{\"tagid\":916648,\"name\":\"生物收集\"},{\"tagid\":922563,\"name\":\"Rogue 恶魔城\"},{\"tagid\":1023537,\"name\":\"复古射击\"},{\"tagid\":1084988,\"name\":\"自走棋\"},{\"tagid\":1091588,\"name\":\"牌组构建式类 Rogue\"},{\"tagid\":1100686,\"name\":\"疫病爆发模拟\"},{\"tagid\":1100687,\"name\":\"汽车模拟\"},{\"tagid\":1100688,\"name\":\"医疗模拟\"},{\"tagid\":1100689,\"name\":\"开放世界生存制作\"},{\"tagid\":1199779,\"name\":\"撤离射击\"},{\"tagid\":1220528,\"name\":\"爱好模拟\"},{\"tagid\":1254546,\"name\":\"足球\"},{\"tagid\":1254552,\"name\":\"美式橄榄球\"}]}"
+		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":1,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11}]"
+		"CTextFilterStore_TextFilterPreferences_930576412"		"{\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords_930576412"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,4],\"bAcceptUnion\":true},{\"rgOptions\":[2],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[2]}"
+		"keyboard_initial_location_desktop"		"\"center-bottom\""
+		"keyboard_initial_location_overlay"		"\"center-bottom\""
+		"CTextFilterStore_strBannedPattern_930576412"		"KDEpXGIo77u/5L2g5LuW54yrfOeJueS5iOeahHxtbGdifGYrW3V20YZdK1tr0LpdKyhlZHxlcnxpbmc/KT98XHcqZitbdXbRhl0rW2PRgV0rW2vQul0rXHcqfGMob2M/fGF3KWtcVypzdWM/a1x3KnzQtNC+0LvQsdC+0LXQsdC40LfQvHxjKG98YWh8YXcpYz9rKHN8ZWQpfNC00L7Qu9Cx0LDQtdCx0L7QsnzQtdCx0LvQsNC90YHQutCw0Y980LXQsdC70LDQvdGB0LrQuNC5fNC30LDQtdCx0ZHRiNGM0YHRj3zQt9Cw0YXRg9GP0YfQuNC70Lh80L/QuNC00LDRgNGB0LrQuNC5fNGB0YrQtdCx0LDRgtGM0YHRj3zRg9C10LHQsNC90YHQutC40Ll80YPQtdCx0LjRidGM0L3QvtC1fNCw0YXRg9C10L3QvdCw0Y980LDRhdGD0LXQvdC90YPRjnzQsNGF0YPQtdC90L3Ri9C5fNCy0YvQtdCx0LDQvdC+0LV80LXQsdCw0L3QvdC+0LzRg3zQtdCx0LDQvdGD0YLRi9C1fNC10LHQu9Cw0L3QsNC80Lh80L7RhdGD0LXQvdC90YvQuXzQv9C40LTQsNGA0LDRgdGLfNGD0ZHQsdC40YnQvdCw0Y980YPRkdCx0LjRidC90YvQuXzQstGK0LXQsdCw0LvQuHzQstGK0LXQsdCw0YLRjHzQtdCx0LDQvdC90LDRj3zQtdCx0LDQvdC90L7QtXzQtdCx0LDQvdC90YvRhXzQtdCx0LDQvdC+0LPQvnzQtdCx0LDQvdGM0LrQuHzQtdCx0L7QvdC90L7QtXzQt9Cw0LXQsdCw0LvQsHzQt9Cw0LXQsdCw0LvQvnzQv9C+0LXQsdC10L3RjHzRhdGD0ZHQstC+0LPQvnxjKG98YWh8YXcpYz9rfGN1bW0oZXJ8aW5nKXzQsNGF0YPQtdC70Lh80LTRgNC+0YfQutC4fNC10LHQsNC90LDRj3zQtdCx0LDQvdC+0LV80LXQsdCw0L3QvtC5fNC10LHQsNC90YPRjnzQtdCx0LDQvdGL0LV80LXQsdCw0L3Ri9C5fNC10LHQsNC90YvQvHzQtdCx0LDQvdGL0YV80LXQsdGD0YfQuNC5fNC/0LjQt9C00LXQtnzQv9C40LfQtNC10YZ80YPRkdCx0LjRidCwfNGD0ZHQsdC40YnQtXzRhdGD0LXRgdC+0YF80YXRg9C10YLQvtC5fNGF0YPQudC90ZHQuXzRhdGD0ZHQstCw0Y980YXRg9GR0LLRi9C5fOS9oOWmiOatu+S6hnzlpojnmoTkuKrpgLx85oiR5Y675L2g55qEfGMrdStuK3QrXHcqfNCx0LvRj9C00Yx80LHQu9GP0YLRjHzQtNC+0YXRg9GPfNC00YDQvtGH0Lh80LXQsdCw0LvQvnzQtdCx0LDRgtGMfNC9NNC10LE00Lt80L3QsNGF0YPQuXzQvdCw0YXRg9GPfNC90LXRhdGD0Ll80L3QuNGF0YPRj3zQv9C40LfQtNC1fNC/0LjQt9C00YN80L/QvtGF0YPQuXzRg9C10LHRkdGCfNGF0YPQtdGC0LB80YXRg9C10YLRg3zRhdGD0LnQvdC4fNGF0YPQudC90Y580YXRg9C50L3Rj3zRkdCx0LDQvdGLfOaTjeS9oOWmiHzmk43kvaDlprl86IKP5L2g5aaIfNCw0YXRg9C1fNC10LHQsNC7fNC10LHRg9GCfNGB0YPQutCwfNGF0YPQu9C4fNGF0YPRj9C8fGN1bXNob3R8Y3VtYmFnfGplYmFuZXzQsdC70Y980LXQsdGDfNGF0YPQuHzRhdGD0Ll80YXRg9GPfOWCu+WxhHzlgrvpgLx85pON5q27fOiHremAvHxjdW1zP3xreXN877u/77u/ZlthZV15P2crW29laXVdK3Qrcz980L/QuNC00LDRgNCw0YHQvtCyfNC00LDRg9C90YHQutCw0Y980L/QuNC00L7RgNCw0YHRi3xjaGluZ1xXKmNob25ncz98bvOggKHzoIChaWdnZXJzfHRvd2VsXFcqaGVhZHM/fNC/0LjQtNC+0YDQutCwfHRpbmdcVyp0b25ncz98dHJhbm4oaWV8eSlzP3xuaTpnZ1x3Kjpcdyp8Y2hpbihjfGspcz98bitpK1tncV0rcz98eWFtXFcqeWFtcz98XHcqbmlnZ2FzP3xjaGluYW1hbnM/fHBvbGFja2U/cz98bmVla2VyaXM/fG5pZ2ZoZXJzP3xyZWRza2lucz98YmVhbmVycz98Y29vbGllcz98Y3phcm51Y2h8ZithK2crcyp8ZmFnZ290cnl8bmV3ZmFncz98bmkgZ2cgZXJ8bmlnZ2Fcdyp8bmlnZ2xlcz98bmlnbm9ncz98cnVzK2tpcz98d2lnZ2Vycz98z5xhZ2fQvnR8aW5qdW5zP3xuaWtrYXM/fHBpZGFyYXN8d2lnZ2FzP3zQuGlnZ2VyfFx3KmZhZ3xiZWFuZXJ8Y29vbnM/fGR5a2VzP3xmYTY2b3R8ZmFndHM/fGdvb2tzP3xneXBvcz98aG9tb3M/fGtpa2VzP3xzcGljcz98dHJhbm55fHl3bmJhd3zpu5HprLx8YWJvcz98Zmd0cz98ZtCwZ3N8amFwcz98cGlkYXJ8dHJvb258d29wcz98ZmFnenxm0LBnfHBha2l8ZkBnfFx3Kk7zoICh86CAoUlHR0XzoICh86CAoVJcdyp8XHcq0YHQstC40L3QvtGB0L7QsdCw0Lpcdyp8XHcqybTJqsmiyaLhtIfKgFx3Knxcdypu0ZZnZ9C1clx3KnxcdypOw41HR0VSXHcqfFx3Km5cXFx8Z2dlclx3KnxcdypuaWdn0LVyXHcqfFx3KkY0R0cwVFx3KnxcdypOMUdHM1Jcdyp8XHcqbmlnZ2VyXHcqfFx3Km5pZ2c0XHcqfFx3Km5pZ2d6XHcqKVxi"
+		"CTextFilterStore_strCleanPattern_930576412"		"KDEpXihcYihob21vIHNhcGllbnMgc2FwaWVuc3x0aGUgc2V4eSBjaGluYW1hbnxrb21wZXRlbnp0ZWFtfOa0vumAgeWRmHxwaW5lZ3JvdmV8blwuZVwuaWdcLmVcLnxmdWt1c2hpbWF8c25pZ2dlcnxuaWUgZ2VlfGZ1a3Vva2F8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8bmlnZ2xlfGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KmhvbW8gc2FwaWVucyBzYXBpZW5zfHRoZSBzZXh5IGNoaW5hbWFufGZhayhlZHxlcnM/fGluZyl8a29tcGV0ZW56dGVhbXzmtL7pgIHlkZh8cGluZWdyb3ZlfG5cLmVcLmlnXC5lXC58ZnVrdXNoaW1hfHNuaWdnZXJ8bmllIGdlZXxmdWt1b2thfGZ1Y2hzaWF8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8bmlnZ2xlfGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":250820,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":1009850,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":2441700,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":1068820,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":1012880,\"rgAccountIDs\":[1184380084],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[294687507,1135421849,1105891015],\"totalFriends\":3},{\"appid\":1172470,\"rgAccountIDs\":[1105891015],\"totalFriends\":1},{\"appid\":477160,\"rgAccountIDs\":[1105891015],\"totalFriends\":1},{\"appid\":1238810,\"rgAccountIDs\":[1105891015],\"totalFriends\":1},{\"appid\":1222140,\"rgAccountIDs\":[1630632970],\"totalFriends\":1},{\"appid\":1802710,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":440,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":3240220,\"rgAccountIDs\":[1105891015],\"totalFriends\":1},{\"appid\":2667120,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":621830,\"rgAccountIDs\":[1105891015],\"totalFriends\":1},{\"appid\":1435790,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":1086940,\"rgAccountIDs\":[379568791],\"totalFriends\":1},{\"appid\":1329410,\"rgAccountIDs\":[1105891015,1702036979],\"totalFriends\":2},{\"appid\":601360,\"rgAccountIDs\":[294687507],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[1702036979,1105891015,1439588101,1630632970,1122832124,379568791],\"totalFriends\":6},{\"appid\":1167630,\"rgAccountIDs\":[294687507],\"totalFriends\":1}],\"lastFetchTimeMS\":1745549023145}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1745554370,\"appids\":[2878980,397540,2507950]},\"rgIgnoredApps\":[]}"
+		"ChatStorePopupState_930576412"		"{\"window_restore_details\":\"1&x=640&y=245&w=740&h=650\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"GameInvites_930576412"		"{\"dismisstimes\":[[0,[0,[0,[0,[0,[0,[0,[0,[0,[0,[0,[0,[0,[0,[1702036979,1740406574]]]]]]]]]]]]]]],[1,[1,[1,[1,[1,[1,[1,[1,[1,[1,[1,[1,[1,[1,[930576412,1740406627]]]]]]]]]]]]]]],[2,[2,[2,[2,[2,[2,[2,[2,[2,[2,[2,[2,[2,[1586021182,1740925396]]]]]]]]]]]]]],[3,[3,[3,[3,[3,[3,[3,[3,[3,[3,[3,[3,[1586021182,1740925396]]]]]]]]]]]]],[4,[4,[4,[4,[4,[4,[4,[4,[4,[4,[4,[1586021182,1741100515]]]]]]]]]]]],[5,[5,[5,[5,[5,[5,[5,[5,[5,[5,[1586021182,1741100515]]]]]]]]]]],[6,[6,[6,[6,[6,[6,[6,[6,[6,[930576412,1741449585]]]]]]]]]],[7,[7,[7,[7,[7,[7,[7,[7,[7,[1586021182,1741717126]]]]]]]]]],[8,[8,[8,[8,[8,[8,[8,[8,[930576412,1741449585]]]]]]]]],[9,[9,[9,[9,[9,[9,[9,[1586021182,1741717126]]]]]]]],[10,[10,[10,[10,[10,[10,[1702036979,1743269836]]]]]]],[11,[11,[11,[11,[11,[1586021182,1743495175]]]]]],[12,[12,[12,[12,[12,[930576412,1743497768]]]]]],[13,[13,[13,[13,[1586021182,1743495175]]]]],[14,[14,[14,[14,[930576412,1743663915]]]]],[15,[15,[15,[1586021182,1743497769]]]],[16,[16,[16,[930576412,1743663915]]]],[17,[17,[1702036979,1743269836]]],[18,[1702036979,1743269836]],[1586021182,1743934058],[930576412,1743663915]]}"
+		"FriendStoreLocalPrefs_930576412"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+		"GetEquippedProfileItemsForUser76561198890842140"		"{\"profile_background\":{\"communityitemid\":\"33714792582\",\"image_large\":\"items/2861700/0ba665aa69dca8374e9fafef283917a90d390b7f.jpg\",\"name\":\"Autumn Gathering - Background\",\"item_title\":\"秋季聚会 - 背景\",\"item_description\":\"\",\"appid\":2861700,\"item_type\":14,\"item_class\":3,\"movie_webm\":\"items/2861700/1947ed7e77d12083017585a18e6a0b7eccb0775d.webm\",\"movie_mp4\":\"items/2861700/b3d43fe9bba52b7fb930dd8c306230e35870602e.mp4\",\"movie_webm_small\":\"items/2861700/e7bf0a01854ed4d3740c01925e5ec44e78f91a25.webm\",\"movie_mp4_small\":\"items/2861700/3e573efadc7b7081390e485049f9890063ac2f59.mp4\",\"equipped_flags\":1,\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"33714832362\",\"image_large\":\"items/2194530/b08a6c11eedc21ff5104ffa5cc3d42d8523148bd.jpg\",\"name\":\"特莉波卡变身\",\"item_title\":\"特莉波卡\",\"item_description\":\"\",\"appid\":2194530,\"item_type\":24,\"item_class\":13,\"movie_webm\":\"items/2194530/e8c5088acf9a27fbc179581ea278009fdf56db9d.webm\",\"movie_mp4\":\"items/2194530/8b3cf6a7de9a3d520224adf4022650f5c6e65a08.mp4\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"33714792580\",\"image_small\":\"items/2861700/8f31bc38b20fbb3b65f7d81b5a8ec82010984c6f.png\",\"image_large\":\"items/2861700/9bb2bffdf07fca233a80be98953ef5eec927cfb6.png\",\"name\":\"Autumn Gathering - Avatar Frame\",\"item_title\":\"秋季聚会 - 头像边框\",\"item_description\":\"\",\"appid\":2861700,\"item_type\":12,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"communityitemid\":\"33714792579\",\"image_small\":\"items/2861700/db894084fbca19c3dd051cce144af2ad076f7273.gif\",\"image_large\":\"items/2861700/962661d99a95dbc74a15ca25b179618ec7fdc574.jpg\",\"name\":\"Autumn Gathering - Avatar\",\"item_title\":\"秋季聚会 - 头像\",\"item_description\":\"\",\"appid\":2861700,\"item_type\":11,\"item_class\":15,\"profile_colors\":[]},\"profile_modifier\":{\"communityitemid\":\"33714792578\",\"image_small\":\"items/2861700/9eda3028f098d708ef115556d25e7fa34f84703e.jpg\",\"image_large\":\"items/2861700/cc768c4652095733c57ef228e70a030a8ff97985.jpg\",\"name\":\"Autumn Gathering\",\"item_title\":\"秋季聚会\",\"item_description\":\"\",\"appid\":2861700,\"item_type\":10,\"item_class\":8,\"profile_colors\":[{\"style_name\":\"backgroundgradient_left\",\"color\":\"rgba(208, 56, 54, 1)\"},{\"style_name\":\"backgroundgradient_right\",\"color\":\"rgba(162, 74, 103, .8)\"},{\"style_name\":\"backgroundgradient_center\",\"color\":\"rgba(94, 32, 45, 0.6)\"},{\"style_name\":\"showcasegradient_left\",\"color\":\"rgba(189, 125, 183, 0.5)\"},{\"style_name\":\"showcasegradient_right\",\"color\":\"rgba(72, 32, 47, 1)\"}]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
+		"spotlight_dlc_store"		"{}"
+		"OverlaySavedDataV2_730_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":6,\"rgRequests\":[{\"requestid\":2,\"strURL\":\"http://error/\",\"strLastURL\":\"http://error/\",\"strTitle\":\"错误\"},{\"requestid\":3,\"strURL\":\"http://error/\",\"strLastURL\":\"http://error/\",\"strTitle\":\"错误\"},{\"requestid\":4,\"strURL\":\"http://error/\",\"strLastURL\":\"http://error/\",\"strTitle\":\"错误\"},{\"requestid\":5,\"strURL\":\"http://error/\",\"strLastURL\":\"http://error/\",\"strTitle\":\"错误\"},{\"requestid\":6,\"strURL\":\"http://error/\",\"strLastURL\":\"http://error/\",\"strTitle\":\"错误\"}]}}"
+		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"Browser\",1],[\"FriendsList\",0]]}"
+		"FriendGroupCollapse_930576412"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
+		"spotlight_gameplaysession_store"		"{\"730\":1744557321}"
+		"deck_compatibility_feedback_ask"		"[]"
+		"deck_compatibility_feedback_eligible_apps"		"{}"
+		"apps"
+		{
+			"1920960"
+			{
+				"DefaultLaunchOption"
+				{
+					"dea9c850"		"0"
+				}
+			}
+		}
+		"OverlaySavedDataV2_730_pinned"		"{\"version\":1,\"data\":[[\"Browser\",{\"bPinned\":false,\"opacity\":0.3}]]}"
+		"TimesSeenStatusChangeCallout"		"1"
+		"Deck_GuidedTourVersionSeen"		"1"
+		"Deck_SeasonalSale"		"{\"sale\":\"\",\"nextCheck\":\"2025-04-06T12:17:21.876Z\",\"deckImage\":\"\"}"
+		"LaunchOptionTipsShown"		"1"
+		"LocalizedTagNames2_schinese"		"{\"version_hash\":\"1981078833\",\"tags\":[{\"tagid\":9,\"name\":\"策略\"},{\"tagid\":19,\"name\":\"动作\"},{\"tagid\":21,\"name\":\"冒险\"},{\"tagid\":84,\"name\":\"设计与插画\"},{\"tagid\":87,\"name\":\"实用工具\"},{\"tagid\":113,\"name\":\"免费开玩\"},{\"tagid\":122,\"name\":\"角色扮演\"},{\"tagid\":128,\"name\":\"大型多人在线\"},{\"tagid\":492,\"name\":\"独立\"},{\"tagid\":493,\"name\":\"抢先体验\"},{\"tagid\":597,\"name\":\"休闲\"},{\"tagid\":599,\"name\":\"模拟\"},{\"tagid\":699,\"name\":\"竞速\"},{\"tagid\":701,\"name\":\"体育\"},{\"tagid\":784,\"name\":\"视频制作\"},{\"tagid\":809,\"name\":\"照片编辑\"},{\"tagid\":872,\"name\":\"动画制作和建模\"},{\"tagid\":1027,\"name\":\"音频制作\"},{\"tagid\":1036,\"name\":\"教育\"},{\"tagid\":1038,\"name\":\"网络出版\"},{\"tagid\":1445,\"name\":\"软件培训\"},{\"tagid\":1616,\"name\":\"火车\"},{\"tagid\":1621,\"name\":\"音乐\"},{\"tagid\":1625,\"name\":\"平台游戏\"},{\"tagid\":1628,\"name\":\"类银河战士恶魔城\"},{\"tagid\":1638,\"name\":\"狗\"},{\"tagid\":1643,\"name\":\"建造\"},{\"tagid\":1644,\"name\":\"驾驶\"},{\"tagid\":1645,\"name\":\"塔防\"},{\"tagid\":1646,\"name\":\"砍杀\"},{\"tagid\":1647,\"name\":\"西部\"},{\"tagid\":1649,\"name\":\"游戏制作\"},{\"tagid\":1651,\"name\":\"讽刺\"},{\"tagid\":1654,\"name\":\"放松\"},{\"tagid\":1659,\"name\":\"僵尸\"},{\"tagid\":1662,\"name\":\"生存\"},{\"tagid\":1663,\"name\":\"第一人称射击\"},{\"tagid\":1664,\"name\":\"解谜\"},{\"tagid\":1665,\"name\":\"三消\"},{\"tagid\":1666,\"name\":\"卡牌游戏\"},{\"tagid\":1667,\"name\":\"恐怖\"},{\"tagid\":1669,\"name\":\"可模组化\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"超级英雄\"},{\"tagid\":1673,\"name\":\"外星人\"},{\"tagid\":1674,\"name\":\"打字\"},{\"tagid\":1676,\"name\":\"即时战略\"},{\"tagid\":1677,\"name\":\"回合制\"},{\"tagid\":1678,\"name\":\"战争\"},{\"tagid\":1680,\"name\":\"劫掠\"},{\"tagid\":1681,\"name\":\"海盗\"},{\"tagid\":1684,\"name\":\"奇幻\"},{\"tagid\":1685,\"name\":\"合作\"},{\"tagid\":1687,\"name\":\"潜行\"},{\"tagid\":1688,\"name\":\"忍者\"},{\"tagid\":1693,\"name\":\"经典\"},{\"tagid\":1695,\"name\":\"开放世界\"},{\"tagid\":1697,\"name\":\"第三人称\"},{\"tagid\":1698,\"name\":\"指向点击\"},{\"tagid\":1702,\"name\":\"制作\"},{\"tagid\":1708,\"name\":\"战术\"},{\"tagid\":1710,\"name\":\"超现实\"},{\"tagid\":1714,\"name\":\"迷幻\"},{\"tagid\":1716,\"name\":\"类 Rogue\"},{\"tagid\":1717,\"name\":\"六角格棋盘\"},{\"tagid\":1718,\"name\":\"多人在线战术竞技\"},{\"tagid\":1719,\"name\":\"喜剧\"},{\"tagid\":1720,\"name\":\"迷宫探索\"},{\"tagid\":1721,\"name\":\"心理恐怖\"},{\"tagid\":1723,\"name\":\"动作即时战略\"},{\"tagid\":1730,\"name\":\"推箱子\"},{\"tagid\":1732,\"name\":\"体素\"},{\"tagid\":1733,\"name\":\"低容错\"},{\"tagid\":1734,\"name\":\"快节奏\"},{\"tagid\":1736,\"name\":\"乐高\"},{\"tagid\":1738,\"name\":\"隐藏物体\"},{\"tagid\":1741,\"name\":\"回合战略\"},{\"tagid\":1742,\"name\":\"剧情丰富\"},{\"tagid\":1743,\"name\":\"格斗\"},{\"tagid\":1746,\"name\":\"篮球\"},{\"tagid\":1751,\"name\":\"漫画\"},{\"tagid\":1752,\"name\":\"节奏\"},{\"tagid\":1753,\"name\":\"滑板\"},{\"tagid\":1754,\"name\":\"大型多人在线角色扮演\"},{\"tagid\":1755,\"name\":\"太空\"},{\"tagid\":1756,\"name\":\"好评原声音轨\"},{\"tagid\":1759,\"name\":\"永久死亡\"},{\"tagid\":1770,\"name\":\"棋盘游戏\"},{\"tagid\":1773,\"name\":\"街机\"},{\"tagid\":1774,\"name\":\"射击\"},{\"tagid\":1775,\"name\":\"玩家对战\"},{\"tagid\":1777,\"name\":\"蒸汽朋克\"},{\"tagid\":3796,\"name\":\"小说改编\"},{\"tagid\":3798,\"name\":\"横向滚屏\"},{\"tagid\":3799,\"name\":\"视觉小说\"},{\"tagid\":3810,\"name\":\"沙盒\"},{\"tagid\":3813,\"name\":\"即时战术\"},{\"tagid\":3814,\"name\":\"第三人称射击\"},{\"tagid\":3834,\"name\":\"探索\"},{\"tagid\":3835,\"name\":\"后末日\"},{\"tagid\":3839,\"name\":\"第一人称\"},{\"tagid\":3841,\"name\":\"本地合作\"},{\"tagid\":3843,\"name\":\"在线合作\"},{\"tagid\":3854,\"name\":\"故事架构丰富 \"},{\"tagid\":3859,\"name\":\"多人\"},{\"tagid\":3871,\"name\":\"2D\"},{\"tagid\":3877,\"name\":\"精确平台\"},{\"tagid\":3878,\"name\":\"竞技\"},{\"tagid\":3916,\"name\":\"老式\"},{\"tagid\":3920,\"name\":\"烹饪\"},{\"tagid\":3934,\"name\":\"沉浸式\"},{\"tagid\":3942,\"name\":\"科幻\"},{\"tagid\":3952,\"name\":\"哥特\"},{\"tagid\":3954,\"name\":\"Rail Shooter\"},{\"tagid\":3955,\"name\":\"角色动作\"},{\"tagid\":3959,\"name\":\"轻度 Rogue\"},{\"tagid\":3964,\"name\":\"像素图形\"},{\"tagid\":3965,\"name\":\"史诗级\"},{\"tagid\":3968,\"name\":\"物理\"},{\"tagid\":3978,\"name\":\"生存恐怖\"},{\"tagid\":3987,\"name\":\"历史\"},{\"tagid\":3993,\"name\":\"战斗\"},{\"tagid\":4004,\"name\":\"复古\"},{\"tagid\":4018,\"name\":\"吸血鬼\"},{\"tagid\":4026,\"name\":\"困难\"},{\"tagid\":4036,\"name\":\"跑酷\"},{\"tagid\":4046,\"name\":\"龙\"},{\"tagid\":4057,\"name\":\"魔法\"},{\"tagid\":4064,\"name\":\"惊悚\"},{\"tagid\":4085,\"name\":\"动漫\"},{\"tagid\":4094,\"name\":\"极简主义\"},{\"tagid\":4102,\"name\":\"战斗竞速\"},{\"tagid\":4106,\"name\":\"动作冒险\"},{\"tagid\":4115,\"name\":\"赛博朋克\"},{\"tagid\":4136,\"name\":\"欢乐\"},{\"tagid\":4137,\"name\":\"超人类主义\"},{\"tagid\":4145,\"name\":\"电影式\"},{\"tagid\":4150,\"name\":\"二战\"},{\"tagid\":4155,\"name\":\"职业导向\"},{\"tagid\":4158,\"name\":\"清版动作\"},{\"tagid\":4161,\"name\":\"即时\"},{\"tagid\":4162,\"name\":\"Kids\"},{\"tagid\":4166,\"name\":\"氛围\"},{\"tagid\":4168,\"name\":\"军事\"},{\"tagid\":4172,\"name\":\"中世纪\"},{\"tagid\":4175,\"name\":\"拟真\"},{\"tagid\":4182,\"name\":\"单人\"},{\"tagid\":4184,\"name\":\"棋类\"},{\"tagid\":4190,\"name\":\"欲罢不能\"},{\"tagid\":4191,\"name\":\"3D\"},{\"tagid\":4195,\"name\":\"卡通风格\"},{\"tagid\":4202,\"name\":\"贸易\"},{\"tagid\":4231,\"name\":\"动作角色扮演\"},{\"tagid\":4234,\"name\":\"短篇\"},{\"tagid\":4236,\"name\":\"刷宝\"},{\"tagid\":4242,\"name\":\"剧集\"},{\"tagid\":4252,\"name\":\"风格化\"},{\"tagid\":4255,\"name\":\"清版射击\"},{\"tagid\":4291,\"name\":\"太空飞船\"},{\"tagid\":4295,\"name\":\"未来\"},{\"tagid\":4305,\"name\":\"彩色\"},{\"tagid\":4325,\"name\":\"回合制战斗\"},{\"tagid\":4328,\"name\":\"城市营造\"},{\"tagid\":4342,\"name\":\"黑暗\"},{\"tagid\":4345,\"name\":\"血腥\"},{\"tagid\":4364,\"name\":\"大战略\"},{\"tagid\":4376,\"name\":\"暗杀\"},{\"tagid\":4400,\"name\":\"抽象\"},{\"tagid\":4434,\"name\":\"日系角色扮演\"},{\"tagid\":4474,\"name\":\"电脑角色扮演\"},{\"tagid\":4486,\"name\":\"自选历险体验\"},{\"tagid\":4508,\"name\":\"合作战役\"},{\"tagid\":4520,\"name\":\"农场管理\"},{\"tagid\":4559,\"name\":\"快速反应事件\"},{\"tagid\":4562,\"name\":\"卡通\"},{\"tagid\":4598,\"name\":\"架空历史\"},{\"tagid\":4604,\"name\":\"黑暗奇幻\"},{\"tagid\":4608,\"name\":\"剑术\"},{\"tagid\":4637,\"name\":\"俯视射击\"},{\"tagid\":4667,\"name\":\"暴力\"},{\"tagid\":4684,\"name\":\"战争游戏\"},{\"tagid\":4695,\"name\":\"经济\"},{\"tagid\":4700,\"name\":\"电影\"},{\"tagid\":4711,\"name\":\"重玩价值\"},{\"tagid\":4726,\"name\":\"可爱\"},{\"tagid\":4736,\"name\":\"2D 格斗\"},{\"tagid\":4747,\"name\":\"角色自定义\"},{\"tagid\":4754,\"name\":\"政治\"},{\"tagid\":4758,\"name\":\"双摇杆射击\"},{\"tagid\":4777,\"name\":\"华丽格斗\"},{\"tagid\":4791,\"name\":\"俯视\"},{\"tagid\":4821,\"name\":\"机甲\"},{\"tagid\":4835,\"name\":\"六自由度\"},{\"tagid\":4840,\"name\":\"4 人本地\"},{\"tagid\":4845,\"name\":\"资本主义\"},{\"tagid\":4853,\"name\":\"政治性\"},{\"tagid\":4878,\"name\":\"谐仿\"},{\"tagid\":4885,\"name\":\"弹幕射击\"},{\"tagid\":4947,\"name\":\"爱情\"},{\"tagid\":4975,\"name\":\"2.5D\"},{\"tagid\":4994,\"name\":\"海战\"},{\"tagid\":5030,\"name\":\"反乌托邦\"},{\"tagid\":5055,\"name\":\"电竞\"},{\"tagid\":5094,\"name\":\"记叙\"},{\"tagid\":5125,\"name\":\"程序生成\"},{\"tagid\":5153,\"name\":\"Kickstarter\"},{\"tagid\":5154,\"name\":\"竞分\"},{\"tagid\":5160,\"name\":\"恐龙\"},{\"tagid\":5179,\"name\":\"冷战\"},{\"tagid\":5186,\"name\":\"心理\"},{\"tagid\":5228,\"name\":\"鲜血\"},{\"tagid\":5230,\"name\":\"续作\"},{\"tagid\":5300,\"name\":\"上帝模拟\"},{\"tagid\":5310,\"name\":\"游戏工坊\"},{\"tagid\":5348,\"name\":\"模组\"},{\"tagid\":5350,\"name\":\"阖家\"},{\"tagid\":5363,\"name\":\"破坏\"},{\"tagid\":5372,\"name\":\"阴谋\"},{\"tagid\":5379,\"name\":\"2D 平台\"},{\"tagid\":5382,\"name\":\"一战\"},{\"tagid\":5390,\"name\":\"时间竞速\"},{\"tagid\":5395,\"name\":\"3D 平台\"},{\"tagid\":5407,\"name\":\"标杆测试\"},{\"tagid\":5411,\"name\":\"唯美\"},{\"tagid\":5432,\"name\":\"编程\"},{\"tagid\":5502,\"name\":\"黑客\"},{\"tagid\":5537,\"name\":\"平台解谜\"},{\"tagid\":5547,\"name\":\"竞技场射击\"},{\"tagid\":5577,\"name\":\"RPG 制作大师\"},{\"tagid\":5608,\"name\":\"情感\"},{\"tagid\":5611,\"name\":\"成人\"},{\"tagid\":5613,\"name\":\"推理\"},{\"tagid\":5652,\"name\":\"收集马拉松\"},{\"tagid\":5673,\"name\":\"现代\"},{\"tagid\":5708,\"name\":\"重制\"},{\"tagid\":5711,\"name\":\"团队导向\"},{\"tagid\":5716,\"name\":\"悬疑\"},{\"tagid\":5727,\"name\":\"棒球\"},{\"tagid\":5752,\"name\":\"机器人\"},{\"tagid\":5765,\"name\":\"枪械改装\"},{\"tagid\":5794,\"name\":\"科学\"},{\"tagid\":5796,\"name\":\"子弹时间\"},{\"tagid\":5851,\"name\":\"等角视角\"},{\"tagid\":5900,\"name\":\"步行模拟\"},{\"tagid\":5914,\"name\":\"网球\"},{\"tagid\":5923,\"name\":\"黑色幽默\"},{\"tagid\":5941,\"name\":\"重启\"},{\"tagid\":5981,\"name\":\"采矿\"},{\"tagid\":5984,\"name\":\"剧情\"},{\"tagid\":6041,\"name\":\"马匹\"},{\"tagid\":6052,\"name\":\"黑色\"},{\"tagid\":6129,\"name\":\"逻辑\"},{\"tagid\":6214,\"name\":\"鸟\"},{\"tagid\":6276,\"name\":\"库存管理\"},{\"tagid\":6310,\"name\":\"外交\"},{\"tagid\":6378,\"name\":\"犯罪\"},{\"tagid\":6426,\"name\":\"选择取向\"},{\"tagid\":6506,\"name\":\"3D 格斗\"},{\"tagid\":6621,\"name\":\"弹球\"},{\"tagid\":6625,\"name\":\"时空操控\"},{\"tagid\":6650,\"name\":\"裸露\"},{\"tagid\":6691,\"name\":\"90 年代\"},{\"tagid\":6702,\"name\":\"火星\"},{\"tagid\":6730,\"name\":\"玩家对战环境\"},{\"tagid\":6815,\"name\":\"手绘\"},{\"tagid\":6869,\"name\":\"非线性\"},{\"tagid\":6910,\"name\":\"海军\"},{\"tagid\":6915,\"name\":\"武术\"},{\"tagid\":6948,\"name\":\"罗马\"},{\"tagid\":6971,\"name\":\"多结局\"},{\"tagid\":7038,\"name\":\"高尔夫\"},{\"tagid\":7107,\"name\":\"即时含暂停\"},{\"tagid\":7108,\"name\":\"社交聚会\"},{\"tagid\":7113,\"name\":\"众筹\"},{\"tagid\":7178,\"name\":\"社交聚会游戏\"},{\"tagid\":7208,\"name\":\"女性主角\"},{\"tagid\":7250,\"name\":\"线性\"},{\"tagid\":7309,\"name\":\"滑雪\"},{\"tagid\":7328,\"name\":\"保龄球\"},{\"tagid\":7332,\"name\":\"基地建设\"},{\"tagid\":7368,\"name\":\"本地多人\"},{\"tagid\":7423,\"name\":\"狙击手\"},{\"tagid\":7432,\"name\":\"洛夫克拉夫特式\"},{\"tagid\":7478,\"name\":\"光明会\"},{\"tagid\":7481,\"name\":\"控制器\"},{\"tagid\":7556,\"name\":\"骰子\"},{\"tagid\":7569,\"name\":\"网格导向动作\"},{\"tagid\":7622,\"name\":\"越野\"},{\"tagid\":7702,\"name\":\"叙事\"},{\"tagid\":7743,\"name\":\"80 年代\"},{\"tagid\":7782,\"name\":\"非主流经典\"},{\"tagid\":7918,\"name\":\"矮人\"},{\"tagid\":7926,\"name\":\"人工智能\"},{\"tagid\":7948,\"name\":\"原声音轨\"},{\"tagid\":8013,\"name\":\"软件\"},{\"tagid\":8075,\"name\":\"TrackIR\"},{\"tagid\":8093,\"name\":\"小游戏\"},{\"tagid\":8122,\"name\":\"关卡编辑\"},{\"tagid\":8253,\"name\":\"基于音乐的程序生成\"},{\"tagid\":8369,\"name\":\"调查\"},{\"tagid\":8461,\"name\":\"精心编写\"},{\"tagid\":8666,\"name\":\"奔跑\"},{\"tagid\":8945,\"name\":\"资源管理\"},{\"tagid\":9130,\"name\":\"动漫色情\"},{\"tagid\":9157,\"name\":\"水底\"},{\"tagid\":9204,\"name\":\"沉浸式模拟\"},{\"tagid\":9271,\"name\":\"集换式卡牌游戏\"},{\"tagid\":9541,\"name\":\"恶魔\"},{\"tagid\":9551,\"name\":\"恋爱模拟\"},{\"tagid\":9564,\"name\":\"狩猎\"},{\"tagid\":9592,\"name\":\"动态旁白\"},{\"tagid\":9803,\"name\":\"雪\"},{\"tagid\":9994,\"name\":\"体验\"},{\"tagid\":10235,\"name\":\"生活模拟\"},{\"tagid\":10383,\"name\":\"交通运输\"},{\"tagid\":10397,\"name\":\"网络梗\"},{\"tagid\":10437,\"name\":\"益智问答\"},{\"tagid\":10679,\"name\":\"时空旅行\"},{\"tagid\":10695,\"name\":\"团队角色扮演\"},{\"tagid\":10808,\"name\":\"灵异\"},{\"tagid\":10816,\"name\":\"分屏\"},{\"tagid\":11014,\"name\":\"互动小说\"},{\"tagid\":11095,\"name\":\"Boss Rush\"},{\"tagid\":11104,\"name\":\"车辆作战\"},{\"tagid\":11123,\"name\":\"仅鼠标\"},{\"tagid\":11333,\"name\":\"恶人主角\"},{\"tagid\":11634,\"name\":\"维京人\"},{\"tagid\":12057,\"name\":\"教程\"},{\"tagid\":12095,\"name\":\"色情内容\"},{\"tagid\":12190,\"name\":\"拳击\"},{\"tagid\":12286,\"name\":\"战锤 40K\"},{\"tagid\":12472,\"name\":\"管理\"},{\"tagid\":13070,\"name\":\"纸牌\"},{\"tagid\":13190,\"name\":\"美国\"},{\"tagid\":13276,\"name\":\"坦克\"},{\"tagid\":13382,\"name\":\"射箭\"},{\"tagid\":13577,\"name\":\"航海\"},{\"tagid\":13782,\"name\":\"试验性\"},{\"tagid\":13906,\"name\":\"游戏开发\"},{\"tagid\":14139,\"name\":\"回合制战术\"},{\"tagid\":14153,\"name\":\"龙与地下城\"},{\"tagid\":14720,\"name\":\"怀旧\"},{\"tagid\":14906,\"name\":\"蓄意操控困难\"},{\"tagid\":15045,\"name\":\"飞行\"},{\"tagid\":15172,\"name\":\"对话\"},{\"tagid\":15277,\"name\":\"哲理\"},{\"tagid\":15339,\"name\":\"纪录片\"},{\"tagid\":15564,\"name\":\"钓鱼\"},{\"tagid\":15868,\"name\":\"摩托车越野\"},{\"tagid\":15954,\"name\":\"无声主角\"},{\"tagid\":16094,\"name\":\"神话\"},{\"tagid\":16250,\"name\":\"赌博\"},{\"tagid\":16598,\"name\":\"太空模拟\"},{\"tagid\":16689,\"name\":\"时间管理\"},{\"tagid\":17015,\"name\":\"狼人\"},{\"tagid\":17305,\"name\":\"策略角色扮演\"},{\"tagid\":17337,\"name\":\"旅鼠\"},{\"tagid\":17389,\"name\":\"桌上游戏\"},{\"tagid\":17770,\"name\":\"异步多人\"},{\"tagid\":17894,\"name\":\"猫\"},{\"tagid\":17927,\"name\":\"台球\"},{\"tagid\":18594,\"name\":\"全动态影像\"},{\"tagid\":19568,\"name\":\"骑车\"},{\"tagid\":19780,\"name\":\"潜水艇\"},{\"tagid\":19995,\"name\":\"黑色喜剧\"},{\"tagid\":21006,\"name\":\"地下\"},{\"tagid\":21725,\"name\":\"战术角色扮演\"},{\"tagid\":21978,\"name\":\"虚拟现实\"},{\"tagid\":22602,\"name\":\"农业\"},{\"tagid\":22955,\"name\":\"迷你高尔夫\"},{\"tagid\":24003,\"name\":\"文字游戏\"},{\"tagid\":24904,\"name\":\"工作场所不宜\"},{\"tagid\":25085,\"name\":\"触控\"},{\"tagid\":26921,\"name\":\"政治模拟\"},{\"tagid\":27758,\"name\":\"声控\"},{\"tagid\":28444,\"name\":\"单板滑雪\"},{\"tagid\":29363,\"name\":\"3D 视觉\"},{\"tagid\":29482,\"name\":\"类魂系列\"},{\"tagid\":29855,\"name\":\"情境\"},{\"tagid\":30358,\"name\":\"自然\"},{\"tagid\":30927,\"name\":\"狐狸\"},{\"tagid\":31275,\"name\":\"基于文字\"},{\"tagid\":31579,\"name\":\"少女游戏\"},{\"tagid\":32322,\"name\":\"牌组构建\"},{\"tagid\":33572,\"name\":\"麻将\"},{\"tagid\":35079,\"name\":\"工作模拟\"},{\"tagid\":37799,\"name\":\"Combat Flight Simulator\"},{\"tagid\":40500,\"name\":\"Sexual Themes\"},{\"tagid\":42089,\"name\":\"突发惊吓\"},{\"tagid\":42329,\"name\":\"代码编写\"},{\"tagid\":42804,\"name\":\"动作类 Rogue\"},{\"tagid\":44868,\"name\":\"LGBTQ+\"},{\"tagid\":47827,\"name\":\"摔角\"},{\"tagid\":49213,\"name\":\"英式橄榄球\"},{\"tagid\":51306,\"name\":\" 外国\"},{\"tagid\":56690,\"name\":\"轨道射击\"},{\"tagid\":61357,\"name\":\"电子音乐\"},{\"tagid\":71389,\"name\":\"拼字\"},{\"tagid\":87918,\"name\":\"农场模拟\"},{\"tagid\":91114,\"name\":\"商店管理\"},{\"tagid\":92092,\"name\":\"喷气机\"},{\"tagid\":96359,\"name\":\"滑行\"},{\"tagid\":97376,\"name\":\"温馨惬意\"},{\"tagid\":102530,\"name\":\"精灵\"},{\"tagid\":117648,\"name\":\"8-bit 音乐\"},{\"tagid\":123332,\"name\":\"自行车\"},{\"tagid\":129761,\"name\":\"ATV\"},{\"tagid\":143739,\"name\":\"电子\"},{\"tagid\":150626,\"name\":\"游戏相关\"},{\"tagid\":158638,\"name\":\"板球\"},{\"tagid\":176733,\"name\":\"消除\"},{\"tagid\":176981,\"name\":\"大逃杀\"},{\"tagid\":180368,\"name\":\"信仰\"},{\"tagid\":189941,\"name\":\"器乐\"},{\"tagid\":198631,\"name\":\"不可思议迷宫\"},{\"tagid\":198913,\"name\":\"摩托车\"},{\"tagid\":220585,\"name\":\"殖民模拟\"},{\"tagid\":233824,\"name\":\"长篇电影\"},{\"tagid\":252854,\"name\":\"自行车越野\"},{\"tagid\":255534,\"name\":\"自动化\"},{\"tagid\":323922,\"name\":\"无双\"},{\"tagid\":324176,\"name\":\"冰球\"},{\"tagid\":337964,\"name\":\"摇滚乐\"},{\"tagid\":348922,\"name\":\"Steam 主机\"},{\"tagid\":353880,\"name\":\"刷宝射击游戏\"},{\"tagid\":363767,\"name\":\"斯诺克\"},{\"tagid\":379975,\"name\":\"点击游戏\"},{\"tagid\":454187,\"name\":\"传统类 Rogue\"},{\"tagid\":552282,\"name\":\"治愈系\"},{\"tagid\":603297,\"name\":\"硬件\"},{\"tagid\":615955,\"name\":\"挂机游戏\"},{\"tagid\":620519,\"name\":\"英雄射击\"},{\"tagid\":745697,\"name\":\"社交推理\"},{\"tagid\":769306,\"name\":\"密室逃脱\"},{\"tagid\":776177,\"name\":\"360 全景视频\"},{\"tagid\":791774,\"name\":\"卡牌战斗\"},{\"tagid\":847164,\"name\":\"排球\"},{\"tagid\":856791,\"name\":\"非对称 VR\"},{\"tagid\":916648,\"name\":\"生物收集\"},{\"tagid\":922563,\"name\":\"Rogue 恶魔城\"},{\"tagid\":1023537,\"name\":\"复古射击\"},{\"tagid\":1084988,\"name\":\"自走棋\"},{\"tagid\":1091588,\"name\":\"牌组构建式类 Rogue\"},{\"tagid\":1100686,\"name\":\"疫病爆发模拟\"},{\"tagid\":1100687,\"name\":\"汽车模拟\"},{\"tagid\":1100688,\"name\":\"医疗模拟\"},{\"tagid\":1100689,\"name\":\"开放世界生存制作\"},{\"tagid\":1199779,\"name\":\"撤离射击\"},{\"tagid\":1220528,\"name\":\"爱好模拟\"},{\"tagid\":1254546,\"name\":\"足球\"},{\"tagid\":1254552,\"name\":\"美式橄榄球\"}]}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"RecentLocalPlayedGameIDs"		"da02000000000000e83c0c6800000000ae44260000000000fa84e7670002a304c04f1d0000000000183de567000000001cbd3000000000005026e567ffffffffde4d060000000000e421e567426967411c71310000000000ffd4df67000000002e690400000000006485da6700000000203f2d00000000006d77da67ffffffff786b1c0000000000c5ffd867000000001c121d0000000000e0fdd867a8370000ce930c0000000000b09cd86798f7f9083e553000000000003b1ec967a96f0000f44d220000000000141bc96773657223"
+	"nettickets"
+	{
+		"730"		"01000000db8428648f621c6f74f4fe812ab4ca173e4f0850cea8be56430ba3741c8b0e65df34cdd8a60e1bcbb6ac66304300926bd9d0dd9d04f2304c837f942cd1ff8bd41d7caf5363c5bbb4d3c15186756ca305b9064cfab26c44d74e71498ca648b6d6b8198a4eb81e8c927125e92194113430dcec996b29d96c58a1cd9dc30fe30c178080b84ce381e804c480f13644944f9cc6473592dfa07ae6677adadc126bd1efc7c4581994567879457ffa8f2b587b05af3968736413f4cf23d94bbfc77602061cb85497b88cdeca112ac92d39517ae489f3620cef09d6c3c6238a7a92dcd2ab384db6326752546359cce002282ce5000c0201161b331b"
+		"2248180"		"01000000db84b7207fc1e37ed0b627ddf534b042c445ba1d9b44f8b318558575b5e9c66e448d89be26c21f29273ec7b4b3b444dc83a08021940b457a0404a831ff8f8f9937f9af4d63c5b9b4d3c15119319c00faa8a20e23eeb3c4ad1b8b433eeb1d5a905d42d468b9b7ee5a7abe502194113430dcec996b29bd419daecdf9a0caec0c391e53b397e81c916f8bf6c62745e6578dab51209ad7a929b56b78dad81563d8eec6cc591d9e537e785854ea3ee73dde4949889ebf0e1b914d7a6a6e322aee87c77f549898f28255786e1e96993b85ed04322cc963b5820a15a97f0b270d1400f83c1bc0daf3f62a23f556230abf9195a77920533a0443e7d996"
+		"1862520"		"01000000db840dadae0a2ff89bce145581910f7f0a5ee3b35879f11146a6abb123ff75f835bfc60a2ee388cef57b75862eb680683ac8560ac976272062fb943d18d67f3231eeaf5263c5b8b4d3c151a3bc4dcb362ee9761066c761122645586745de6799ff1c27467d21f8e9eccf622194113430dcec996b295fa78caecd1bbadaec0c3553abe8c7639c8c0b84b6f02655f734f6c156319edbad24eb6679d9db1263d0efc6cd501592557d7d5c4dd81c7462e4d69abd1acd0eb0b20bdcaaf0e89154cfbebcf78eb3b8c971fde98a0d39a67a8f994c363bae9860779237196e9fda588a8f51e7c7875b99329179b935ea0f49819d0df78c03c3578536"
+		"413150"		"01000000db84a6046874dce21dbdd02cdd7ae9bbe67afd5b3afd903748bc007de917c8b6deb781511fdedb1c8a931ad146c9ed7fbbdf19b89bac616b0df917d375231a33857daf5263c5b8b4d3c15108158bb5c5346f05d41f9b8af4e2a97c79adbce3f8d9123dedb1eb1054a2246a2194113430dcec996b29474ab1aecd03ade6ec0c131ec3e8c7639c8c0b84b6f02655f734f6c156319edbad24eb6679d9db1263d0efc6cd501592557d7d5c4dd81c7462e4d69abd1acd627077672620a8fb09c14be10ff02bd0c8bf55e235a0943c49b739b153b70ab216a658295d8c355edf1181148d4a3e2d3dd378953da0d11f31debb27d9cb93068e7996ed"
+	}
+	"apps"
+	{
+		"730"
+		{
+			"UseSteamControllerConfig"		"0"
+			"SteamControllerRumble"		"-1"
+			"SteamControllerRumbleIntensity"		"320"
+		}
+	}
+	"LibraryLowBandwidthMode"		"1"
+	"LibraryLowPerfMode"		"1"
+	"LibraryDisableCommunityContent"		"1"
+	"depots"
+	{
+		"730"
+		{
+			"CDN"
+			{
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1740678507"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1740678508"
+				}
+			}
+		}
+	}
+	"UserAppConfig"
+	{
+		"3240220"		"00696e7465726e616c00016c616e677561676500736368696e657365000808"
+		"1905180"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"3167550"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"2248180"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"1862520"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"824270"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"2965280"		"00696e7465726e616c00016c616e677561676500736368696e657365000808"
+		"289070"		"00696e7465726e616c00016c616e677561676500736368696e657365000808"
+		"413150"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"3194140"		"00696e7465726e616c00016c616e677561676500736368696e657365000808"
+		"1920960"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"2507950"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+	}
+	"ControllerTypesUsed"		"controller_xbox360,controller_generic,"
+	"controller_config"
+	{
+		"730"
+		{
+			"usetime"		"432.731170654296875"
+		}
+	}
+}

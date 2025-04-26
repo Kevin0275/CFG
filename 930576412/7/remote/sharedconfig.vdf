@@ -1,0 +1,22 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"timeline_intro"
+		{
+			"rtSeen"		"0"
+			"rtLinkDismissed"		"1743671040"
+		}
+	}
+}
