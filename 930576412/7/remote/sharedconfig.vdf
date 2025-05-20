@@ -8,6 +8,13 @@
 			{
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
+				"apps"
+				{
+					"714010"
+					{
+						"cloudenabled"		"0"
+					}
+				}
 			}
 		}
 	}

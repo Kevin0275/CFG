@@ -1,0 +1,41 @@
+"394360"
+{
+	"ChangeNumber"		"7"
+	"OSType"		"0"
+	"career_profile/social.pr"
+	{
+		"root"		"0"
+		"size"		"921"
+		"localtime"		"1747557301"
+		"time"		"1747557300"
+		"remotetime"		"1747557300"
+		"sha"		"fdae1bf2d6cc468d6fbbcb8e07b184f979c9de89"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"career_profile/v2/statistics/1747557229.pr"
+	{
+		"root"		"0"
+		"size"		"4109"
+		"localtime"		"1747557245"
+		"time"		"1747557245"
+		"remotetime"		"1747557245"
+		"sha"		"119fcea94c68e1f8406099fe19053f532db72716"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"career_profile/v2/statistics/1747554290.pr"
+	{
+		"root"		"0"
+		"size"		"4109"
+		"localtime"		"1747557301"
+		"time"		"1747557300"
+		"remotetime"		"1747557300"
+		"sha"		"e0d08adc85440936aa31e8f5ead701b1f56ad1bc"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

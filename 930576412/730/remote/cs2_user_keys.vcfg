@@ -4,9 +4,9 @@
 	{
 		"0"		"slot0"
 		"4"		"+hzBind_flash"
-		"6"		"slot6"
-		"7"		"slot7"
-		"8"		"slot8"
+		"6"		"<unbound>"
+		"7"		"<unbound>"
+		"8"		"<unbound>"
 		"9"		"+hzBind_decoy"
 		"SPACE"		"+voicerecord"
 		"MWHEELDOWN"		"hzBind_wheeldn"
@@ -19,7 +19,7 @@
 		"v"		"+hzBind_molo"
 		"MOUSE3"		"toggleradarscale"
 		"MOUSE5"		"player_ping"
-		"MOUSE4"		"<unbound>"
+		"MOUSE4"		"clutch_mode_toggle"
 		"a"		"+hzBind_left"
 		"d"		"+hzBind_right"
 		"s"		"+hzBind_back"
@@ -39,6 +39,11 @@
 		"SHIFT"		"+hzBind_sprint"
 		"MOUSE1"		"+hzBind_attack"
 		"MOUSE2"		"+hzBind_attack2"
+		"b"		"buymenu"
+		"/"		"hzBind_resetHorizon"
+		"ENTER"		"ent_fire script Enter"
+		"BACKSPACE"		"ent_fire script Backspace"
+		"DEL"		"ent_fire script Delete"
 	}
 	"analogbindings"
 	{
