@@ -1,233 +1,41 @@
 "subscribedfiles"
 {
 	"appid"		"730"
-	"time_last_updated"		"1747484879"
+	"time_last_updated"		"1749991194"
 	"0"
 	{
-		"publishedfileid"		"3070715607"
-		"time_subscribed"		"1747485062"
+		"publishedfileid"		"3086023598"
+		"time_subscribed"		"1747726433"
 		"disabled_locally"		"0"
 	}
 	"1"
 	{
-		"publishedfileid"		"3460740703"
-		"time_subscribed"		"1744900951"
+		"publishedfileid"		"3070244462"
+		"time_subscribed"		"1747726435"
 		"disabled_locally"		"0"
 	}
 	"2"
 	{
-		"publishedfileid"		"3070389038"
-		"time_subscribed"		"1699185815"
+		"publishedfileid"		"3105821815"
+		"time_subscribed"		"1747726437"
 		"disabled_locally"		"0"
 	}
 	"3"
 	{
 		"publishedfileid"		"3077265396"
-		"time_subscribed"		"1700138798"
+		"time_subscribed"		"1747726446"
 		"disabled_locally"		"0"
 	}
 	"4"
 	{
-		"publishedfileid"		"3084291314"
-		"time_subscribed"		"1742381922"
+		"publishedfileid"		"3070389038"
+		"time_subscribed"		"1748445892"
 		"disabled_locally"		"0"
 	}
 	"5"
 	{
-		"publishedfileid"		"3410868822"
-		"time_subscribed"		"1742278304"
-		"disabled_locally"		"0"
-	}
-	"6"
-	{
-		"publishedfileid"		"3086023598"
-		"time_subscribed"		"1742200364"
-		"disabled_locally"		"0"
-	}
-	"7"
-	{
-		"publishedfileid"		"3416003536"
-		"time_subscribed"		"1741223263"
-		"disabled_locally"		"0"
-	}
-	"8"
-	{
-		"publishedfileid"		"3423073369"
-		"time_subscribed"		"1741223235"
-		"disabled_locally"		"0"
-	}
-	"9"
-	{
-		"publishedfileid"		"3430103877"
-		"time_subscribed"		"1741223228"
-		"disabled_locally"		"0"
-	}
-	"10"
-	{
-		"publishedfileid"		"3408790618"
-		"time_subscribed"		"1741223207"
-		"disabled_locally"		"0"
-	}
-	"11"
-	{
-		"publishedfileid"		"3437809122"
-		"time_subscribed"		"1741223185"
-		"disabled_locally"		"0"
-	}
-	"12"
-	{
-		"publishedfileid"		"3070244462"
-		"time_subscribed"		"1698996273"
-		"disabled_locally"		"0"
-	}
-	"13"
-	{
-		"publishedfileid"		"3083320026"
-		"time_subscribed"		"1701088909"
-		"disabled_locally"		"0"
-	}
-	"14"
-	{
-		"publishedfileid"		"3070210382"
-		"time_subscribed"		"1736425382"
-		"disabled_locally"		"0"
-	}
-	"15"
-	{
-		"publishedfileid"		"3105821815"
-		"time_subscribed"		"1727702303"
-		"disabled_locally"		"0"
-	}
-	"16"
-	{
-		"publishedfileid"		"3070197052"
-		"time_subscribed"		"1699001272"
-		"disabled_locally"		"0"
-	}
-	"17"
-	{
-		"publishedfileid"		"1377592684"
-		"time_subscribed"		"1695109570"
-		"disabled_locally"		"0"
-	}
-	"18"
-	{
-		"publishedfileid"		"1222094548"
-		"time_subscribed"		"1695109564"
-		"disabled_locally"		"0"
-	}
-	"19"
-	{
-		"publishedfileid"		"1202643420"
-		"time_subscribed"		"1695109559"
-		"disabled_locally"		"0"
-	}
-	"20"
-	{
-		"publishedfileid"		"2615264498"
-		"time_subscribed"		"1695109557"
-		"disabled_locally"		"0"
-	}
-	"21"
-	{
-		"publishedfileid"		"1304331841"
-		"time_subscribed"		"1695109548"
-		"disabled_locally"		"0"
-	}
-	"22"
-	{
-		"publishedfileid"		"1339439320"
-		"time_subscribed"		"1695109546"
-		"disabled_locally"		"0"
-	}
-	"23"
-	{
-		"publishedfileid"		"2647569490"
-		"time_subscribed"		"1695102041"
-		"disabled_locally"		"0"
-	}
-	"24"
-	{
-		"publishedfileid"		"243702660"
-		"time_subscribed"		"1694010395"
-		"disabled_locally"		"0"
-	}
-	"25"
-	{
-		"publishedfileid"		"3279170646"
-		"time_subscribed"		"1734540718"
-		"disabled_locally"		"0"
-	}
-	"26"
-	{
-		"publishedfileid"		"3355497176"
-		"time_subscribed"		"1734504264"
-		"disabled_locally"		"0"
-	}
-	"27"
-	{
-		"publishedfileid"		"3299851378"
-		"time_subscribed"		"1734411494"
-		"disabled_locally"		"0"
-	}
-	"28"
-	{
-		"publishedfileid"		"3180277965"
-		"time_subscribed"		"1734411492"
-		"disabled_locally"		"0"
-	}
-	"29"
-	{
-		"publishedfileid"		"3244203953"
-		"time_subscribed"		"1715719843"
-		"disabled_locally"		"0"
-	}
-	"30"
-	{
-		"publishedfileid"		"3232466864"
-		"time_subscribed"		"1715719841"
-		"disabled_locally"		"0"
-	}
-	"31"
-	{
-		"publishedfileid"		"1234716875"
-		"time_subscribed"		"1703346885"
-		"disabled_locally"		"0"
-	}
-	"32"
-	{
-		"publishedfileid"		"3100869952"
-		"time_subscribed"		"1701451174"
-		"disabled_locally"		"0"
-	}
-	"33"
-	{
-		"publishedfileid"		"3070299727"
-		"time_subscribed"		"1700138824"
-		"disabled_locally"		"0"
-	}
-	"34"
-	{
-		"publishedfileid"		"3070205063"
-		"time_subscribed"		"1698975478"
-		"disabled_locally"		"0"
-	}
-	"35"
-	{
-		"publishedfileid"		"3049225938"
-		"time_subscribed"		"1697086700"
-		"disabled_locally"		"0"
-	}
-	"36"
-	{
-		"publishedfileid"		"2999181770"
-		"time_subscribed"		"1696604084"
-		"disabled_locally"		"0"
-	}
-	"37"
-	{
-		"publishedfileid"		"687905054"
-		"time_subscribed"		"1695805800"
+		"publishedfileid"		"3153970412"
+		"time_subscribed"		"1747747699"
 		"disabled_locally"		"0"
 	}
 }
