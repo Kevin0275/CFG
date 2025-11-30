@@ -1,0 +1,53 @@
+"413150"
+{
+	"ChangeNumber"		"3"
+	"OSType"		"0"
+	"StardewValley/Saves/淘淘乐_399973571/淘淘乐_399973571"
+	{
+		"root"		"4"
+		"size"		"3506884"
+		"localtime"		"1743069655"
+		"time"		"1743069636"
+		"remotetime"		"1743069636"
+		"sha"		"8faadd2749720c9cf48d85b5fe97ad2f4df1d125"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/淘淘乐_399973571/淘淘乐_399973571_old"
+	{
+		"root"		"4"
+		"size"		"3548686"
+		"localtime"		"1743068587"
+		"time"		"1743068568"
+		"remotetime"		"1743068568"
+		"sha"		"1925b20b3be1edb3ea6ba2ea23739ab77d997765"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/淘淘乐_399973571/SaveGameInfo"
+	{
+		"root"		"4"
+		"size"		"51784"
+		"localtime"		"1743069655"
+		"time"		"1743069636"
+		"remotetime"		"1743069636"
+		"sha"		"40bd7e4e093bfd9fd4f4f7d133eb5c9be17574ed"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"StardewValley/Saves/淘淘乐_399973571/SaveGameInfo_old"
+	{
+		"root"		"4"
+		"size"		"51406"
+		"localtime"		"1743068587"
+		"time"		"1743068568"
+		"remotetime"		"1743068568"
+		"sha"		"165f976ca81dd4ec1cb58fca4ff1e60eafd23abd"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

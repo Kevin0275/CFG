@@ -1,0 +1,17 @@
+"431960"
+{
+	"ChangeNumber"		"1"
+	"OSType"		"0"
+	"statsutility.bin"
+	{
+		"root"		"0"
+		"size"		"77"
+		"localtime"		"1760960551"
+		"time"		"1760960551"
+		"remotetime"		"1760960551"
+		"sha"		"1def4ff35ff9de81ffdae29340b4702cbb7295dd"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

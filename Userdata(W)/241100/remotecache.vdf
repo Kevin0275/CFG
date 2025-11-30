@@ -1,0 +1,53 @@
+"241100"
+{
+	"ChangeNumber"		"2"
+	"OSType"		"0"
+	"1642187073/config/configset_45e-28e-61e1c941.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1752670466"
+		"time"		"1752670463"
+		"remotetime"		"1752670463"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1642187073/config/configset_controller_xbox360.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1752670466"
+		"time"		"1752670463"
+		"remotetime"		"1752670463"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1642187073/config/preferences_45e-28e-61e1c941.vdf"
+	{
+		"root"		"1"
+		"size"		"829"
+		"localtime"		"1752670466"
+		"time"		"1752670463"
+		"remotetime"		"1752670463"
+		"sha"		"8afd3005fc3dc660dddc607b8ae665f80aaf3a55"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1642187073/config/configset_Awaiting_Logon.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1757841111"
+		"time"		"1757841108"
+		"remotetime"		"1757841108"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

@@ -1,0 +1,41 @@
+"1862520"
+{
+	"ChangeNumber"		"9"
+	"OSType"		"0"
+	"Studio Amateur/JustGo/SaveFileOfficial_beta.es3"
+	{
+		"root"		"12"
+		"size"		"8768"
+		"localtime"		"1753461663"
+		"time"		"1753461660"
+		"remotetime"		"1753461660"
+		"sha"		"7d32a30d245dccaebff36428ffae0917efc6b5ae"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Studio Amateur/JustGo/CareerSaves/career_91d585f6-e5f7-4e54-b84c-d02487fb16c4.sav"
+	{
+		"root"		"12"
+		"size"		"226727"
+		"localtime"		"1753028075"
+		"time"		"1753028072"
+		"remotetime"		"1753028072"
+		"sha"		"635c1f03aaa7e172c6a8e7608b6005b6380600f5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Studio Amateur/JustGo/Careers/career.sav"
+	{
+		"root"		"12"
+		"size"		"226727"
+		"localtime"		"1753028075"
+		"time"		"1753028072"
+		"remotetime"		"1753028072"
+		"sha"		"635c1f03aaa7e172c6a8e7608b6005b6380600f5"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

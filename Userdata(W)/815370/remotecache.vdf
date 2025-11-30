@@ -1,0 +1,41 @@
+"815370"
+{
+	"ChangeNumber"		"2"
+	"OSType"		"0"
+	"ACHIEVEMENTSDATA.dat"
+	{
+		"root"		"0"
+		"size"		"16384"
+		"localtime"		"1758469061"
+		"time"		"1758469058"
+		"remotetime"		"1758469058"
+		"sha"		"97e046127b077713d037e977167d4f0bf6cc74e9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"coop/4133f9ba-a486-4bec-808b-ddc33b852a8f"
+	{
+		"root"		"0"
+		"size"		"1048576"
+		"localtime"		"1758469569"
+		"time"		"1758469566"
+		"remotetime"		"1758469566"
+		"sha"		"a2e7d90b94e685a30a0ef270b9200cc9d7b9b2d1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Settings2.sav"
+	{
+		"root"		"0"
+		"size"		"16384"
+		"localtime"		"1758464745"
+		"time"		"1758464742"
+		"remotetime"		"1758464742"
+		"sha"		"bc5a6d984614b2300691606352f281b3c68fe764"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
