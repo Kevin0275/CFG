@@ -1,0 +1,65 @@
+"2149010"
+{
+	"ChangeNumber"		"1"
+	"OSType"		"0"
+	"Little Nightmares Enhanced Edition/Saved/Config/WindowsNoEditor/Input.ini"
+	{
+		"root"		"3"
+		"size"		"2"
+		"localtime"		"1765972345"
+		"time"		"1765972341"
+		"remotetime"		"1765972341"
+		"sha"		"ba8ab5a0280b953aa97435ff8946cbcbb2755a27"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Little Nightmares Enhanced Edition/Saved/SaveGames/1699002546_LNEEUserMeta.sav"
+	{
+		"root"		"3"
+		"size"		"1681"
+		"localtime"		"1765975835"
+		"time"		"1765975831"
+		"remotetime"		"1765975831"
+		"sha"		"aa92cd7c9cfba971473246a03fb14859f7c9b844"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Little Nightmares Enhanced Edition/Saved/SaveGames/1699002546_LNEESaveSlot1_meta.sav"
+	{
+		"root"		"3"
+		"size"		"1845"
+		"localtime"		"1765975835"
+		"time"		"1765975831"
+		"remotetime"		"1765975831"
+		"sha"		"f7b3b6917e291b522c4c8c489039b1f40a97dab1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Little Nightmares Enhanced Edition/Saved/SaveGames/1699002546_LNEESaveSlot1.sav"
+	{
+		"root"		"3"
+		"size"		"5436"
+		"localtime"		"1765975835"
+		"time"		"1765975831"
+		"remotetime"		"1765975831"
+		"sha"		"eea8cebf8ba637c01c3987f3b33bf9d7b478f0bd"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"Little Nightmares Enhanced Edition/Saved/Config/WindowsNoEditor/GameUserSettings.ini"
+	{
+		"root"		"3"
+		"size"		"1426"
+		"localtime"		"1765975844"
+		"time"		"1765975840"
+		"remotetime"		"1765975840"
+		"sha"		"b13368e79f9bf67d604dbdd662fd008a0b4fa2de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}

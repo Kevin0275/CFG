@@ -1,119 +1,83 @@
 "subscribedfiles"
 {
 	"appid"		"730"
-	"time_last_updated"		"1760794527"
+	"time_last_updated"		"1764416727"
 	"0"
 	{
-		"publishedfileid"		"379868494"
-		"time_subscribed"		"1760794547"
+		"publishedfileid"		"3453526792"
+		"time_subscribed"		"1764416884"
 		"disabled_locally"		"0"
 	}
 	"1"
 	{
-		"publishedfileid"		"3548705356"
-		"time_subscribed"		"1755915959"
+		"publishedfileid"		"3105821815"
+		"time_subscribed"		"1764416883"
 		"disabled_locally"		"0"
 	}
 	"2"
 	{
-		"publishedfileid"		"3074758439"
-		"time_subscribed"		"1751587468"
+		"publishedfileid"		"3426318598"
+		"time_subscribed"		"1764416873"
 		"disabled_locally"		"0"
 	}
 	"3"
 	{
-		"publishedfileid"		"3275080617"
-		"time_subscribed"		"1751587457"
+		"publishedfileid"		"3100869952"
+		"time_subscribed"		"1764416863"
 		"disabled_locally"		"0"
 	}
 	"4"
 	{
-		"publishedfileid"		"3272008480"
-		"time_subscribed"		"1751587455"
+		"publishedfileid"		"1365781615"
+		"time_subscribed"		"1764416862"
 		"disabled_locally"		"0"
 	}
 	"5"
 	{
-		"publishedfileid"		"3279281339"
-		"time_subscribed"		"1751587454"
+		"publishedfileid"		"3070244462"
+		"time_subscribed"		"1764416851"
 		"disabled_locally"		"0"
 	}
 	"6"
 	{
-		"publishedfileid"		"3251878584"
-		"time_subscribed"		"1751587454"
+		"publishedfileid"		"122443683"
+		"time_subscribed"		"1764416831"
 		"disabled_locally"		"0"
 	}
 	"7"
 	{
-		"publishedfileid"		"3244203953"
-		"time_subscribed"		"1751587453"
+		"publishedfileid"		"3395240479"
+		"time_subscribed"		"1764416830"
 		"disabled_locally"		"0"
 	}
 	"8"
 	{
-		"publishedfileid"		"3232466864"
-		"time_subscribed"		"1751587452"
+		"publishedfileid"		"3084291314"
+		"time_subscribed"		"1764416829"
 		"disabled_locally"		"0"
 	}
 	"9"
 	{
-		"publishedfileid"		"3086023598"
-		"time_subscribed"		"1751587448"
+		"publishedfileid"		"3344448932"
+		"time_subscribed"		"1764416759"
 		"disabled_locally"		"0"
 	}
 	"10"
 	{
-		"publishedfileid"		"3199551320"
-		"time_subscribed"		"1751587434"
+		"publishedfileid"		"3153970412"
+		"time_subscribed"		"1764416755"
 		"disabled_locally"		"0"
 	}
 	"11"
 	{
-		"publishedfileid"		"3077265396"
-		"time_subscribed"		"1751587426"
+		"publishedfileid"		"3548705356"
+		"time_subscribed"		"1761912655"
 		"disabled_locally"		"0"
 	}
 	"12"
 	{
-		"publishedfileid"		"3105821815"
-		"time_subscribed"		"1751587423"
-		"disabled_locally"		"0"
-	}
-	"13"
-	{
-		"publishedfileid"		"3070244462"
-		"time_subscribed"		"1751587421"
-		"disabled_locally"		"0"
-	}
-	"14"
-	{
-		"publishedfileid"		"3153970412"
-		"time_subscribed"		"1758659127"
-		"disabled_locally"		"0"
-	}
-	"15"
-	{
-		"publishedfileid"		"3363179605"
-		"time_subscribed"		"1759742974"
-		"disabled_locally"		"0"
-	}
-	"16"
-	{
-		"publishedfileid"		"3472828046"
-		"time_subscribed"		"1759742876"
-		"disabled_locally"		"0"
-	}
-	"17"
-	{
-		"publishedfileid"		"3263864230"
-		"time_subscribed"		"1759742829"
-		"disabled_locally"		"0"
-	}
-	"18"
-	{
-		"publishedfileid"		"3564167925"
-		"time_subscribed"		"1759742823"
+		"publishedfileid"		"3543085409"
+		"time_subscribed"		"1756522637"
 		"disabled_locally"		"0"
 	}
 }

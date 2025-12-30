@@ -6,19 +6,9 @@
 		{
 			"Steam"
 			{
-				"SurveyDate"		"2023-11-06"
-				"SurveyDateVersion"		"3864668630394776684"
-				"StartMenuShortcutCheck"		"1"
-				"DesktopShortcutCheck"		"1"
+				"SurveyDate"		"2023-09-25"
+				"SurveyDateVersion"		"-7964077626782567792"
 			}
-		}
-	}
-	"JSClientStorage"
-	{
-		"spotlight.review.730"
-		{
-			"rgPromptDismissals"		"3"
-			"bWasAskedToRevise"		"0"
 		}
 	}
 }

@@ -2,7 +2,7 @@
 {
 	"bindings"
 	{
-		"0"		"<unbound>"
+		"0"		"slot0"
 		"1"		"slot1"
 		"2"		"slot2"
 		"3"		"slot3"
@@ -43,6 +43,7 @@
 		"n"		"buy ak47; buy m4a1_silencer; buy vesthelm; buy vest;"
 		"F3"		"autobuy"
 		"SEMICOLON"		"+hzGUI_grenade"
+		"F4"		"rebuy"
 	}
 	"analogbindings"
 	{
