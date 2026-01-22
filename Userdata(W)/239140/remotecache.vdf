@@ -1,0 +1,29 @@
+"239140"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"out/profiles/default.pro"
+	{
+		"root"		"0"
+		"size"		"4095"
+		"localtime"		"1768667505"
+		"time"		"1768667421"
+		"remotetime"		"0"
+		"sha"		"5a57bc9ccd9b6423717aaefdd9c8209ccafd66d2"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"out/save/save_coop_0.sav"
+	{
+		"root"		"0"
+		"size"		"6243"
+		"localtime"		"1768667503"
+		"time"		"1768667420"
+		"remotetime"		"0"
+		"sha"		"9a20b87c2bb5c0bf3ef2387d0de9b8d1ee4c472e"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"11"
+	}
+}

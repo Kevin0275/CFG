@@ -47,7 +47,7 @@
 		"cl_ironsight_dot_scale"		"1.000000"
 		"cl_ironsight_usecrosshaircolor"		"false"
 		"cl_prefer_lefthanded"		"false"
-		"cl_showloadout"		"true"
+		"cl_showloadout"		"false"
 		"cl_silencer_mode"		"0"
 		"cl_sniper_auto_rezoom"		"false"
 		"cl_use_opens_buy_menu"		"false"

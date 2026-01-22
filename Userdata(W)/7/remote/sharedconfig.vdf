@@ -2,13 +2,24 @@
 {
 	"Software"
 	{
-		"Valve"
+		"valve"
 		{
-			"Steam"
+			"steam"
 			{
 				"SurveyDate"		"2023-09-25"
 				"SurveyDateVersion"		"-7964077626782567792"
+				"CloudEnabled"		"0"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
 			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.730"
+		{
+			"rgPromptDismissals"		"4"
+			"bWasAskedToRevise"		"0"
 		}
 	}
 }
